@@ -27,7 +27,7 @@ def preguntar():
                 {"role": "user", "content": pregunta_usuario}
             ],
             temperature=0.3
-        ]
+        )
         
         respuesta = response.choices[0].message.content
         return jsonify({"respuesta": respuesta})
