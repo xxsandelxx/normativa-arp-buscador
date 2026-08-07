@@ -1,0 +1,1334 @@
+RECOMPENSA ROBOS:
+
+· Joyería: 20.000€ | 25.000€ [ Dinero sucio ]
+· Gasolineras: 3.500€ | 5.000€  [ Dinero limpio ]
+· Tool Store: 14.000€ | 16.000€ [ Dinero sucio ]
+· Tienda de armas: 12.000€  | 14.000€ y un arma aleatoria. [ Dinero sucio ]
+· Amazon: 6.500€ | 8.000€ y un ítem aleatorio [ Dinero sucio ]
+· Banco: 50.000€ [ Dinero sucio ]
+· Furgón blindado: 250.000€ [ Dinero sucio ]
+· Furgón blindado rutinario: 20.000€ | 25.000€ [ Dinero sucio ]
+· Restaurantes: 2000€ | 2500€ [ Dinero limpio ]
+· Concesionario: Depende del vehículo robado [ Dinero sucio ]
+· Casas: 500€ | 850€ [ Dinero limpio ]
+· Tienda de ropa: 1.500€ | 2.000€ [ Dinero limpio ]
+· Cajero (ATM): 300€ | 600€ [ Dinero limpio ]
+
+RECOMPENSAS AUTOMATICAS
+
+
+·Usa el comando "/atraco reclamar" para que únicamente haga falta la confirmación del negociador para que se te entregue el dinero sin la necesidad de hacer la plantilla ni de esperar a que un staff la verifique. 
+
+NORMAS ROBOS:
+
+· Joyería: Policías: Mínimo 8, Máximo 10. → Atracadores: Mínimo 1, Máximo 5.
+· Gasolinera: Policías: Mínimo 3, Máximo 5. → Atracadores: Mínimo 1, Máximo 2.
+· Tool Store: Policías: Mínimo 4, Máximo 7. → Atracadores: Mínimo 1, Máximo 3.
+· Tienda de armas: Policías: Mínimo 5, Máximo 7. → Atracadores: Mínimo 2, Máximo 4.
+· Amazon: Policías: Mínimo 4, Máximo 6. → Atracadores: Mínimo 1, Máximo 3
+· Banco: Policías: Mínimo 10: Solo tiroteo (pactado) M4 y Unidades Especiales Permitidas, Máximo 14. → Atracadores: Mínimo 1, Máximo 4. (Video necesario) (Mas info en la ⁠「📜」normativa-general ) 
+· Furgón Blindado: Policías:  Mínimo 12, No hay máximo.
+· Furgón Blindado Rutinario (Prosegur): Este furgón transporta 25.000€ y no tiene escolta policial, el furgón aparecerá aleatoriamente por todo el mapa, sin aviso previo.
+·Restaurante: Policías: Mínimo 3, máximo 4 →Atracadores: Mínimo 1, Máximo 2
+·Concesionario: Policías, Mínimo 6, máximo 8→ Atracadores: Mínimo 1, máximo 2.
+·Casas: Policías, Mínimo 2, máximo 4 →Atracadores Mínimo y máximo 1 (El atracador deberá permanecer en una vivienda que no sean las ubicadas en las montañas durante 60 segundos, pasado ese tiempo podrá abandonar la vivienda) (Video Necesario)
+·Tienda de ropa: Policías: Mínimo 1, Máximo 2. → Atracadores: Mínimo y máximo 1
+·Cajero (ATM): Atracadores: Máximo y mínimo 1. (Se deberá mandar grabación de como se roba el ATM en el servidor de Andalucía:RP y te das a la fuga con éxito) 
+
+REQUISITOS ROBOS
+
+·Civiles: Sin restricciones
+·Casas: Sin restricciones
+·Tienda de ropa: Sin restricciones 
+·Restaurantes: Sin restricciones
+·Cajero (ATM): Sin restricciones 
+·Gasolineras: @≫ Pandilla Oficial 
+·Amazon: @≫ Pandilla Oficial 
+·Tienda de Armas: @≫ Banda Oficial 
+·Tool Store: @≫ Banda Oficial 
+·Joyería: @≫ Mafia Oficial 
+·Furgones: @≫ Mafia Oficial 
+·Banco: @≫ Mafia Oficial 
+·Concesionario: @≫ Mafia Oficial 
+
+
+Todos los robos deben de tener un cooldown de 20 minutos entre atraco y atraco
+
+Una vez se haya perdido a la policia, se deberá esperar 5 minutos sin ser perseguido para reclamar las recompensas
+
+los sueldos de cualquier trabajo se pueden ver en https://discord.com/channels/952320777905143858/952320781608706122
+
+
+
+ 1. NORMATIVA PANDILLAS
+
+
+1.1- Concepto de Pandilla:
+
+Enfocamos la Pandilla como un conjunto de personas las cuales tienen unas características comunes, se les puede identificar fácilmente como pertenecientes a ese colectivo, no
+
+buscamos un simple grupo de 4 personas que se juntan para hacer un atraco, Andalucía RP lo que busca es que las pandillas estén compuestas por miembros con roles originales y distintivos, las opciones son enormes (moteros, mexicanos, rusos, asiáticos, tejanos sureños, pandilleros, extremistas, hippies, sectas, etc.)
+
+
+1.2- Características de las Pandilla:
+
+Las PDP deberán contar con un mínimo de 4 miembros para ser consideradas una organización. En caso de que al momento de su creación no tengan este mínimo podrán seguir operando pero deberán mantener la actividad correspondiente y serán consideradas según el nivel de organización que posean en ese momento. En caso de no dar la actividad suficiente se eliminará. Todos los integrantes de las pandillas/bandas/mafias deberán respetar y representar los colores de su organización ya sea en la ropa o vehículos. Ponerse el color de otra organización regularmente podrá ser reportado por NIP. (Se pueden usar colores distintos pero no de manera regular)
+
+
+Las pandillas tienen que tener un trasfondo, historia o personalidad que las hagan únicas,
+
+pueden tener signos identificativos para ayudar a distinguirlos del resto de jugadores como son la raza o etnia, forma de hablar, vestimenta, color de coche, etc.
+
+Todas las Pandillas tienen que tener un jefe de Pandilla, y además deben de tener una sede, casa o zona de control acorde con su rol.
+
+
+Las pandillas pueden secuestrar para perpetrar un atraco a un máximo de 2 civiles o 1 civil y un policía. Se podrá tener un rehén adicional, el cual será el dependiente del local, contando así un total de 3 rehenes
+
+
+Las pandillas pueden secuestrar como máximo 2 rehenes, 2 civiles o 1 civil y un policía si no tiene intención de perpetrar un atraco.
+
+1.3- Obligaciones de las Pandillas:
+
+Debe quedar claro que una pandilla no es ni una mafia ni una banda, no actúan en las sombras ni a escondidas, por tanto, debe tener un jaque a la policía, guardia civil, otras pandillas, bandas y/o mafias.
+
+
+
+1.4- Equipamiento:
+
+Las pandillas solo tienen acceso a armas cuerpo a cuerpo y pistolas, además no podrán comprar armas a bandas ni trabajar directamente para ellas fuera de encargos o contratos IC autorizados.
+
+El acceso a armamento de mayor nivel (armas de banda o mafia) únicamente podrá obtenerse mediante contratos o encargos IC con organizaciones superiores o a través de una progresión justificada dentro del rol (misiones, contactos o evolución de la facción) siempre respetando la normativa de facciones ilegales.
+
+Las pandillas deben mantener en todo momento una coherencia de nivel organizativo, no pudiendo actuar ni equiparse como una banda o mafia sin una evolución IC correspondiente aprobada o justificada.
+
+Deberán tener una IDP acorde a su nivel de organización siempre y cuando lo hagan acorde a su situación IC. Incluyendo el uso de vehículos y vestimenta acordes a su situación económica o nivel de organización.
+
+
+
+1.5- Alianzas:
+
+
+Las pandillas podrán establecer alianzas únicamente con bandas, respetando en todo momento las limitaciones y condiciones establecidas en el apartado 5.1 de la presente normativa. No podrán realizarse alianzas entre pandillas y mafias ni entre bandas y mafias.
+
+Las pandillas, bandas y mafias podrán colaborar mediante contratos o encargos IC puntuales siempre orientados a un beneficio económico o de servicio sin que ello suponga una alianza permanente.
+
+En ningún caso una alianza o colaboración podrá utilizarse para solicitar apoyo en conflictos, guerras o enfrentamientos contra otras organizaciones criminales, debiendo cada organización resolver dichos conflictos de forma independiente.
+
+Las relaciones entre organizaciones deberán mantenerse dentro del marco IC establecido y respetar el resto de limitaciones recogidas en esta normativa.
+
+Podrán existir excepciones concretas autorizadas previamente mediante ticket por el Encargado de Facciones Ilegales.
+
+
+
+
+2. NORMATIVA BANDAS
+
+
+2.1- Historia de Banda:
+
+Las Bandas tienen que ser fiel a su rol y a su historia, tiene que tener unas raíces, las cuales se han forjado por su camino en Andalucía. Es obligatorio que los integrantes de una Banda mantengan la esencia de su facción en todo momento, no se puede ir alternando la forma de actuar cuando participas en un rol como banda y cuando no (ej.: si eres ruso o asiático, lo eres siempre), interpretación del personaje debe realizarse teniendo en cuenta tu rol dentro de la Banda.
+
+
+2.2- Características de la Banda:
+
+El número de miembros de una Banda es de 5 a 7. Todos los integrantes de las pandillas/bandas/mafias deberán respetar y representar los colores de su organización ya sea en la ropa o vehículos. Ponerse el color de otra organización regularmente podría ser reportado por NIP. (Se pueden usar colores distintos pero no de manera regular)
+
+
+2.3- Las Bandas tienen acceso a casi todo lo ilegal, teniendo tanto armamento como contacto con mafias para poder comprarles armas y blanquear dinero, pueden llevar tanto armas cortas como armas automáticas (subfusiles)
+
+
+Las bandas ya podrán ser objetivo de redadas por parte de las unidades de investigación e intervención de la policía.
+
+
+Las bandas pueden secuestrar para perpetrar un atraco a un máximo de 2 civiles o 1 civil y un policía. Se podrá tener un rehén adicional, el cual será el dependiente del local, contando así un total de 3 rehenes.
+
+
+Las bandas pueden secuestrar como máximo 2 rehenes, 2 civiles o 1 civil y un policía si no tiene intención de perpetrar un atraco.
+
+
+Las misiones y encargos que se le den a una banda será considerablemente más difícil y lucrativa que aquellas de banda pero el riesgo y las consecuencias IC serán superiores. Además las bandas podrán tener trabajadores que roben por ellos (Atracos que no sean de pandilla/banda/mafia) y no sean oficialmente de la banda, pero que trabajen para ellos por dinero, favores, protección etc.
+
+
+
+
+
+
+
+
+
+3. NORMATIVA MAFIAS
+
+
+3.1- Historia de Mafia:
+
+Las Mafias no pueden salirse ni de su rol ni historia de PJ, queda claro que una Mafia no es
+
+ninguna Pandilla y/o Banda, esto quiere decir que las Mafias no se manchan las manos, ni hacen actos para que la policía les pillen, van por la sombra y en sigilo.
+
+
+3.2- Características de la Mafia:
+
+El número de miembros de una Mafia es de 6 a 8.
+
+
+3.3- Las mafias tienen acceso a todo lo ilegal, siendo estas las encargadas de suministrar armamento, blanquear dinero y vender a las demás bandas de la ciudad. Las armas las cuales pueden vender son las que las bandas tienen desbloqueadas y solo podrán venderle armas de mafia (Aks, LMTs, M249 etc) con la autorización del encargado de facciones ilegales.
+
+
+Las mafias pueden secuestrar para perpetrar un atraco a un máximo de 2 civiles o 1 civil y un policía. Se podrá tener un rehén adicional, el cual será el dependiente del local, contando así un total de 3 rehenes
+
+
+Las mafias pueden secuestrar como máximo 2 rehenes, 2 civiles o 1 civil y un policía si no tiene intención de perpetrar un atraco.
+
+
+El jefe de una Mafia podrá disponer de un local público para hacer sus trapicheos, eso sí, en el caso de que la policía descubra lo que hay en ese local, se podrá hacer una redada (teniendo información previa y aceptada por el ENCARGADO DE FACCIONES LEGALES)
+
+
+ 4. CONFLICTOS ENTRE FACCIONES
+
+
+4.1- Conflictos entre facciones:
+
+Tanto las Pandillas como las Bandas pueden y deben entrar en conflicto unas con otras, enemistarse y atacarse.
+
+
+Entre Pandillas/Bandas/Mafias pueden tener una actitud neutral o de no agresión, pero nunca ser aliadas.
+
+
+Queda prohibida cualquier colaboración o alianza no contemplada expresamente en la presente normativa. Se podran aplicar excepciones si se solicita y aprueba por parte de FI.
+
+
+Por rol de entorno nunca se podrá atacar a la sede de las demás Pandillas/Banda sin abrir un ticket de FACCIONES ILEGALES y ser aceptado por el ENCARGADO DE FACCIONES ILEGALES. NUNCA  se podrá atacar el territorio de una Mafia a no ser que seas policía (claramente tiene que haber una investigación abierta y ser aceptada por el ENCARGADO DE FACCIONES LEGALES).
+
+
+4.2- Conflictos con la policía:
+
+Al tratarse de facciones ilegales, la CNP,GC,PL y PM, tienen como misión el desmantelamiento de dichas Bandas/Mafias.
+
+
+Es misión de la Banda/Mafia cuidar sus espaldas y evitar que se relacionen a sus integrantes con la facción, puesto que la clausura de una Banda/Mafia por CK policial está permitido siempre y cuando haya una investigación aceptada por el ENCARGADO DE FACCIONES LEGALES. Si la policía realiza un CK a un miembro de una banda o mafia, el nuevo personaje no podrá volver a entrar dentro de la facción hasta pasadas 2 semanas. Para que una banda o mafia no se disuelve tras un CK policial a la facción, es necesario que mantengan el número mínimo de integrantes necesarios a los cuales no se les haya hecho CK durante la redada (5 en banda y 6 en mafia).
+
+
+Si se hace un CK a toda la banda o mafia, la siguiente postulación que realicen esas personas no puede tener ninguna relación o similitud con la antigua banda disuelta.
+
+
+La policía no podrá en ningún momento hacerles una redada a una Pandilla, ni podrán meterles perpetua por pertenecer a una Organización criminal, si podrán abrirles una investigación, pero hasta que no suban a Banda no podrán hacerles nada.
+
+
+Esto se hace para dar más rol y darles la oportunidad de subir a Banda, eso sí, nada más asciendan, se les podrá hacer lo que sea necesario para desmantelarla, eso sí, siempre y cuando haya una investigación aceptada por el ENCARGADO DE FACCIONES LEGALES.
+
+
+Para que la policía pueda desmantelar a una banda/mafia, es decir hacerle CK a todos los integrantes de una organización criminal, la policía deberá presentarle al encargado de facciones legales por medio de un ticket un documento detallado de toda la información que se posee de la banda/mafia, como la han conseguido y como han podido relacionar a los integrantes con la misma organización criminal. Si el encargado de facciones legales verifica el contenido de la investigación se les notificará y se esperara la verificación y aceptación por parte de facciones ilegales y los integrantes de la banda/mafia investigada la situación y acto seguido tanto la policía como la organización investigada se pondrán de acuerdo para elegir un día y hora en el que hacer un rol de tiroteo en el territorio de la banda/mafia investigada, si la policía gana el tiroteo contra la organización investigada esta será desmantelada y todos sus miembros sufrirán un CK (Es posible que primero se celebre un Juicio). Por el contrario, si los investigados son los que ganan el tiroteo, la policía perderá toda la información que tenían y no recordarán de la existencia de dicha organización criminal, además las pruebas y documentos aportados no servirán en futuras redadas/investigaciones a esa misma banda/mafia.
+
+
+
+
+A la hora de planificar el tiroteo por cada criminal que defienda el territorio de la banda/mafia deberá haber dos policías. (Mínimo deberán asistir 6 policías a elección de cada cuerpo)
+
+
+En el ticket de facciones legales se especificará el número de policías y criminales que deberán asistir, así como las armas y vehículos que deban ser empleados por ambas partes.
+
+
+Si la policía no tiene la suficiente información para hacerle una redada de CK a una organización criminal, pero sí cuenta con información considerable sobre ella, la policía podrá presentar dicha info al encargado de FL y tras tener el visto bueno posterior del encargado de FI, la policía podrá hacer una redada con las mismas normas que las de CK (planificacion y ejecucion) pero en caso de que gane la policía, se le reducirá un porcentaje de dinero y armas a dicha organización criminal además del respectivo procesamiento de los implicados. (Pandilla = 25% | Banda = 50% | Mafia = 75%). En caso de que los criminales ganen la redada, toda la información presentada para la misma será eliminada.
+
+
+4.3- Normativa de las redadas:
+
+
+Durante una redada, los criminales que estén defendiendo el territorio tendrán prohibido salir de la zona a defender que será designada previamente por el equipo administrativo.
+
+
+Quedará prohibido atrincherarse en ubicaciones con cinemática de entrada. (Ej.: Bunker de Housing)
+
+
+Si la redada supera los 30 minutos sin que ninguno de los dos bandos haya salido victorioso, la policía podrá enviar un máximo de 2 agentes adicionales. (Cada 30 minutos) (Estos agentes adicionales podrán ser aquellos que hayan sido abatidos durante la redada) (Solo se podra enviar un maximo 4 agentes adicionales por redada)
+
+
+Tanto los policías como los criminales que hayan sido abatidos en la redada, podrán hacerse respawn para seguir roleando sin esperar a que finalice la redada, pero estos jamás podrán volver a la zona de la redada a excepción de aquellos policías que hayan sido designados como refuerzos pasados los 30 minutos.
+
+
+4.4- Policías Corruptos:
+
+
+Como norma general un policía no podrá ser corrupto a menos que presente una solicitud a FL, esta sea aprobada y posteriormente tenga la confirmación de FI donde se le informará al policía lo que puede hacer y no en base a su solicitud presentada. Los policías corruptos sólo podrán pertenecer a organizaciones de tipo banda o mafia. (Salvo casos excepcionales aprobados por FI)
+
+
+
+
+
+4.5- Conflictos entre organizaciones:
+
+
+No se permitirá IDP agresivas o vengativas tanto PDP/Pandilla/Banda/Mafia a no ser que se tenga una justificación sólida IC (Se puede preguntar a FI para ver si es válida o no). No tendrán permitido dar información de cualquier organización criminal a menos que esté pactado o sean de nivel organizativo, pandilla.
+
+
+La realización de pactos LOS CUALES SON OPCIONALES NO OBLIGATORIOS, obtención de recompensas (incluyendo el dar dinero negro u armas) u tradeos, se priorizara hacerlo de manera IG y en caso de no poder IG por motivos importantes, se podra hacer de manera OOC, mientras no pase repetidas veces y se podran recalcar en un documento conjunto aprobado por ambas organizaciones y que quede claro todo. El documento se podrá renovar o cambiar algunas pautas cada vez que se ascienda de nivel organizativo o a partir de cuando se diga en el pacto todo esto deberá ser realizado IG y solo podrá tener normativas de manera IC. En caso de no cumplir con la renovación el pacto expira y no servirían ningunos de sus términos.
+
+
+Se permiten los conflictos entre pandillas/bandas siempre que haya una justificación de fondo. Pero no se permiten conflictos hacia facciones Legales.
+
+
+Está prohibido el colaborar entre pandillas/bandas para actividades ilícitas leves a excepción de misiones o trabajos mandados por la MA y organizaciones autorizadas por parte de FI.
+
+
+No se permiten actos grupales ilícitos con bandas/mafias. Solo podrá interactuar esa mafia con el fin de dar trabajos a las bandas y fines de compras de armas, dinero u otros escenarios cual requiera su presencia.
+
+
+En caso de que unas pandillas/bandas/mafias tengan que saldar deudas pero no quiera optar por el CK, se puede realizar el rol de “saqueamiento” cual se puede solicitar en un ticket de FI con las pruebas concluyentes.
+
+
+
+
+5. ALIANZAS
+
+
+5.1-  Alianzas entre Pandillas/Bandas:
+
+La creación y pactos de alianzas deberán regirse a la normativa de alianzas que se explica a continuación al pie de la letra, no seguirla puede llegar a ocasionar sanciones administrativas:
+
+
+Las Pandillas y Bandas podrán ser aliados, los conceptos a tener en cuenta son que lo único que hay en esta alianza es que la Banda le dé trabajos a las Pandillas a cambio de algo, si en algún momento dicha Pandilla o Banda tienen una guerra abierta con otra no podrán ayudarse.
+
+
+La alianza podrá hacer roles agresivos juntos, pero siempre y cuando no superen el máximo de integrantes de la Pandilla, en este caso 6 personas, si hay más de 6 personas entre las dos bandas o mafias serán sancionados tanto los usuarios como las dos Facciones.
+
+
+5.2- Alianzas entre Bandas/Mafias:
+
+Las Bandas y Mafias no se podrán aliar, pero una Banda sí que podrá tener el contacto de una Mafia específica para  comprarles armas o para blanquearles el dinero, si dicha Mafia quiere dejar de venderles y blanquearles podrán negarse perfectamente y si dicha Mafia ve necesario realizar un PK a la Banda estará permitido hacerlo siempre y cuando esté aceptado el PK por el ENCARGADO DE FACCIONES ILEGALES.
+
+
+5.3- Alianzas entre Pandillas/Mafias:
+
+Está totalmente prohibido que una Pandilla esté aliada con una Mafia.
+
+
+5.4- Alianzas con Civiles:
+
+Queda prohibido que una Banda/Mafia inicie roles agresivos con Civiles/Criminales, ya que no tendría sentido. Sí podrán rolear con Pandillas y hacer roles agresivos siempre y cuando no superen el máximo de integrantes de la Pandilla (6 en este caso), los únicos que podrán hacer esto serán aquellos que tengan el rol de CRIMINAL en el Discord de Andalucía, el único concepto a tener en cuenta en los roles de las Pandillas con Criminales es que no podrán hacer los robos que las pandillas pueden ni utilizar las armas que las pandillas tienen.
+
+
+6. CRIMINALES
+
+
+6.1- Roles Criminales:
+
+Los criminales podrán hacer roles agresivos siempre y cuando respeten los siguientes conceptos: Los criminales no podrán ser más de 4 en roles agresivos, si quieren ser más les invitamos a hacerse una Pandilla. Solo podrán utilizar el arma que tengan en Discord comprada, en este caso la Beretta M9, en caso de secuestro solo podrán secuestrar a 1 persona (1 civil o 1 policía), si se secuestra a más de 1 se les puede reportar y sancionar, los únicos robos que pueden hacer los criminales son: Civiles, Casas, Tienda de Ropa y Restaurantes.
+
+
+6.2- Conceptos a tener en cuenta:
+
+Los criminales no son ni Pandillas, ni Bandas, ni Mafias, no tienen nada de poder en la ciudad, solo son una persona que se gana la vida robando, así que no pueden hacer roles agresivos como tiroteos masivos hacia la policía, ni atentados, ni nada por el estilo.
+
+
+El área de las minas ubicadas en las montañas se considera un punto neutral para realizar actividades criminales, en esta área aunque haya trabajadores o testigos estos no podrán llamar a la policía o interactuar con los criminales que se presenten allí a menos que estos inicien un rol agresivo contra los trabajadores/testigos. Si una banda tiene la montaña como territorio, la única zona que no será suya serán las minas, al ser siempre un punto neutral para los criminales. La policía podrá hacer redadas y operaciones en las minas, al igual que en el resto de ubicaciones del mapa donde se sospeche que haya actividad ilícita en curso.
+
+
+Los criminales individuales no podrán estar aliados con bandas/pandillas/mafias. A excepción de trabajar para ellas, en el que en cualquier momento según el pacto realizado o términos de esa organización, puede tener consecuencias IC.
+
+
+Los criminales o PDP no podrán realizar un convoy (detalles en normativa general) o participar más de 3 personas en actos delictivos o agresivos. Pero si pueden juntarse y compartir información o dinero más de esa cantidad de personas.
+
+
+
+
+
+7. NORMATIVA GENERAL
+
+
+Art. 01: Facciones ilegales podrá disolver y sancionar a cualquier organización criminal de cualquier nivel en el caso de que su IDP de personaje o comportamientos sean nocivos frente a la comunidad. También podrá eliminar toda organización que no cumpla los mínimos de actividad designados por FI, siempre bajo avisos previos a la organización.
+
+
+Art. 02: Máximo 6 integrantes por pandilla, máximo 7 por banda y máximo 8 por mafia. (Todo aquel que no tenga los roles de dicha organización en Discord no podrá rolear de pandilla/banda/mafia)
+
+
+Art. 03: Si el líder/líderes de una mafia, banda o pandilla sufren un CK no podrán volver a ser líderes de la misma si regresan tras el CK a la mafia/banda/pandilla.
+
+
+Art. 04: Los miembros de una mafia/banda/pandilla no podrán revivir a otros jugadores si estos son abatidos, incluso si este pertenece al 061.
+
+
+Art. 05: Todos los usuarios al ser abatidos siempre deben rolear que el arma que estaban usando (en caso de tenerla equipada) ha caído al lado de su cuerpo o está accesible en su indumentaria. Pero pueden ser arrebatadas o rescatadas sólo por integrantes de su misma organización. En caso de que la persona que toma las armas sea pillada o cacheada deberá interpretar que lleva las armas encima o en el vehículo en caso de que las armas estén allí en el juego.
+
+
+Art. 06: Si un miembro abandona, se le hará un PK administrativo.
+
+
+Art. 07: Para los ataques a Territorios/Barrios/Zonas, los atacantes tendrán que tener un motivo IC para atacar a la otra banda/mafia/pandilla y será obligatorio que el encargado de facciones ilegales de el visto bueno y os comunique como se debe "capturar" las zonas dependiendo si los atacantes son Mafia, Banda o Pandilla. (No servira por vías OOC, todo deberá ser interpretado IC)
+
+
+Art. 08: Está permitido crear Discord ajeno para la mafia/banda/pandilla siempre que el ENCARGADO DE FACCIONES ILEGALES esté en dicho Discord o un staff que supervise.
+
+
+Art. 09: Puede haber hasta un máximo de 3 líderes por mafia/banda/pandilla. (Con el rol de jefe en Discord se podrá hacer uso del comando “!reclutar @user”, “!ascender @user”, “!descender @user”  y “!desterrar @user”)
+
+
+Art. 10: Si queréis hacerle CK2 a alguien, tendréis que abrir un ticket con plantilla de ⁠「🎫」tickets con su motivo correspondiente. Solo se aceptaran motivos de peso que se sepan y se puedan verificar con pruebas IC como a policías infiltrados en organizaciones criminales, IHQ injustificados, incumplimientos de determinados pactos IC, aliados o rivales que den información a la policía, encargos de la MA etc. No se le podrá hacer CK2 a un PJ por el hecho de interpretar su personaje como por ejemplo a un policía por el hecho de serlo o a un pandillero rival por el hecho de ser de otra organización.
+
+Importante: Cuando se le haga CK2 a un usuario no se podrá usar el “/do posible CK” de lo contrario la solicitud quedará rechazada. Únicamente se podrá usar “/do CK” si este ha sido aceptado previamente por ticket. En el caso de que se haga el rol de CK y luego al solicitud por ticket, la víctima será añadida al ticket para informarle de la situación si se le acepta el CK2 por lo que no se deberá notificar a la víctima durante el rol del propio CK2.
+
+
+Art. 11: Los territorios de las pandillas/bandas/mafias serán zonas públicas y los integrantes de dichas organizaciones no podrán atacar a nadie a menos que aquel que haya entrado sea hostil o integrante de otra pandilla/banda/mafia. (Robar a civiles si está permitido)
+
+
+Art. 12: Todos los Civiles/Policías siempre deben llevar el DNI/Placa encima.
+
+
+Art. 13: Un integrante de una pandilla/banda/mafia no podrá unirse a otra pandilla/banda/mafia directamente después de haber muerto en su actual PJ. Para hacerlo en primer lugar se deberá abandonar la actual pandilla/banda/mafia y después de haberse hecho un CK por métodos judiciales o por exceso de multas. Nunca podrá hacer lo mismo. No podrán interactuar con el nuevo PJ con su banda para trabajos o pactos a lo largo de 1 semana.
+
+
+Art. 14: Queda totalmente prohibido aliarse con criminales u otra organización criminal para la ejecución de contratos de la mafia administrativa (excepto si el propio contrato lo requiere).
+
+
+Art. 15: En caso de que te salgas de una pandilla/banda/mafia se te realiza un player kill total (PKT) automático, eso quiere decir que no podrás recordar nada de lo que haya pasado en tu vida mientras estabas en esa organización criminal.
+
+
+Art. 16: Los criminales podrán cubrir su rostro con los accesorios correspondientes pero no podrá cambiar ningún aspecto predeterminado de su personaje y deben ser acordes a su foto del DNI. (En caso de tener DNI)
+
+
+Art. 17: Fotos/videos para uso de información o actividad de las organizaciones de la facción deberán usar el “./me empieza a grabar al empezar” o similares. En caso de cacheo deberá interpretar que el dispositivo está grabando. Para momentos más cruciales como toma de fotos se deberá realizar con el dispositivo en la mano y que en la propia captura salga la frase “./me le echa una foto” o frase similar.
+
+
+Art. 18: No se tendrá la obligación de enviar entornos para actividades ilegales que ocurran dentro de un HQ que no sean robos, tiroteos o en determinadas misiones de MA ya sea dentro o fuera del propio HQ.
+
+
+Art. 19: Sólo se podrán tomar fotos con su dispositivo en la mano, en primera persona o con su respectiva cámara grabando (la cual deberá al iniciar la grabación poner “/me empieza a grabar” o similares y cuando se le cache se deberá decir que la lleva encima)
+
+
+Art. 20: No se permite la estancia/parada de vehículos alrededor o en frente de los HQ con fines de provocar intencionadamente.
+
+
+Art. 21: Los integrantes de facciones criminales tendrán  acceso a hacer roles pactados siempre que se organice con el  organizador de eventos, FI y pueden pactar que sea con su personaje  IC o Administrativo pero no podrá beneficiar ni directa ni indirectamente a su organización.
+
+
+Art. 22: El proveedor de armas funciona de la siguiente manera: Un día aleatorio se puede poner alguien encargado o dirigido por FI en un sitio en concreto que se anunciara por deep web. Para ello esa persona tendrá un catálogo de armas que puede variar cada hora o día que llegue y no será obligatorio tirar el entorno. Todo esto de manera IC. Pero estará expuesto a una redada.
+
+
+
+
+0.1 Definición de facciones legales
+
+Las Facciones Legales se definen como cuerpos que representan a las autoridades encargadas de hacer cumplir la ley y mantener el orden (Otras realizan otras actividades diferentes). Estas facciones desempeñan funciones cruciales en la ciudad, la protección de los ciudadanos, la gestión de situaciones desafiantes, sanidad, etc. Pueden incluir factores responsables de la seguridad pública, respuesta a emergencias, y otras responsabilidades vinculadas al mantenimiento del orden y la seguridad en ese contexto particular…
+
+Las facciones legales tienen una estructura jerárquica donde un líder toma decisiones estratégicas. Oficiales de rango superior y medio cumplen roles específicos y actúan asegurándose de cumplir dichas órdenes. El ascenso se basa en méritos, mientras que las expulsiones resultan de violaciones graves al protocolo establecido en esa facción. Nuevos miembros ingresan tras las oposiciones OBLIGATORIAS. La comunicación interna se realiza por canales específicos y los líderes emiten órdenes directas o mediante el canal correspondiente de anuncios del servidor que este pertenece a esa facción. Esta organización asegura coordinación y respuesta efectiva, manteniendo disciplina y seguridad.
+
+
+1. Tratos y Faltas de Respeto
+
+
+1.1- Las faltas de respeto entre compañeros y/o superiores quedan totalmente prohibidas y serán motivo de sanción dentro del cuerpo del estado donde ocurra.
+
+1.2- Toda orden comunicada por mando o un superior deberá ser acatada y su cumplimiento será obligatorio. Su incumplimiento será motivo de sanción del cuerpo.
+
+1.3- Saludar es signo de respeto y se deberá hacer siempre. Es por eso que no solo se tendrá que saludar a un rango superior, sino a todos los compañeros.
+
+1.4- Deberás tratar a todos los compañeros de usted y dirigirte a ellos siempre por su rango y apellido. Por ejemplo, dirigirse a un Inspector como al Inspector Alejandro Giménez.
+
+1.5- Evitar cualquier forma de discriminación, acoso o intimidación hacia cualquier miembro del dicha facción, independientemente de su rango o posición.
+
+1.6- Respetar la privacidad y la confidencialidad de la información personal y profesional de los compañeros, de dichas facciones, evitando divulgarla y usarla de manera inapropiada.
+
+1.7- Tratar a todos los compañeros con igualdad y justicia, sin mostrar estereotipos ni prejuicios basados en rangos u otras razones.
+
+1.8- Se prohíbe cualquier tipo de ‘’free rank’’ Y/O favoritismo. En caso de que se vea este tipo de hecho se EXPULSARA DIRECTAMENTE al Instructor/alto cargo
+
+
+2. Normas generales
+
+Principal deber de la PN/GC/PL:
+
+2.1- El principal deber de estos cuerpos será mantener el orden de la ciudad y hacer cumplir las leyes impuestas, atrapar delincuentes, impedir robos y ayudar a los ciudadanos cuando estén en peligro.
+
+Ejemplo y Prohibición de Delitos:
+
+2.2- Como policía se tiene la obligación de dar ejemplo a los ciudadanos y es por eso que queda totalmente prohibido cometer algún delito (por menor que sea). En caso de que dicha multa supere los 2000€  se deberá informar a los superiores de cada cuerpo. Para que el agente sea expulsado del cuerpo al que pertenece se le deberá informar al jefe de cada cuerpo (El DAO en caso de ser CNP, el Teniente General en caso de ser GC o el Superintendente Jefe en caso de ser PL) para que este trámite o rechace la expulsión del agente. (O aplique las medidas que considere apropiadas) (Para poder arrestar a un usuario por multas de tráfico, estas deben superar los 2000€)
+
+Nota: Si un policía le redacta una multa a un sujeto y este considera que es desproporcionada, ya sea por el uso de artículos similares/redundantes o innecesarios, este podrá reportar la multa y si el staff considera que no es propia, se le podrá retirar la multa al sujeto y el policía podrá ser sancionado.
+
+Uso de armas letales:
+
+2.3- Solo se permitirá el uso de las armas letales cuando tu vida, la de tus compañeros o civiles estén en peligro. También se permite su uso cuando se haya abierto fuego hacia ti, aunque sea la patrulla o un civil (siempre siguiendo las órdenes del H-50).
+
+2.4- La policía solo podrá abatir a criminales visiblemente armados, con armas de fuego o que hayan disparado estas en presencia de funcionarios de estos cuerpos. No se podrá abatir a ciudadanos visiblemente armados con armas blancas, se deberá hacer uso de la fuerza no letal (Taser, extensible, escopeta puff…) (Se podrán abatir a criminales que usen armas blancas si se cumple que: Son 2 usuarios o más los que usan las armas blancas o si ya se ha abatido a un civil/policía con dicha arma)
+
+2.5- La policía le permitirá disparar hacia las ruedas del vehículo en caso de que un vehículo haya pasado los 2 minutos de persecución.
+
+2.6- La policía deberá de llevar el equipamiento reglamentario según la alerta vigente en la ciudad, los cuales se encuentran en su normativa correspondiente o en los Discords internos de cada facción (Puede haber excepciones con unidades especiales).
+
+Patrullas en binomio o trinomio:
+
+2.7- Los superiores de cada cuerpo pueden obligar a sus agentes a ir en binomio (dos policías).
+
+Persecuciones:
+
+2.8- Durante las persecuciones, los policías deben comunicar la ubicación y dirección de la sospecha para coordinar una respuesta efectiva.
+
+2.8.1- Se permite el uso de tácticas como la colocación de pinchos para poder inmovilizar vehículos a la fuga, NUNCA EN CIUDAD. (Esto incluye las maniobras PITS). Se podrán ejecutar dichas tácticas en cualquier situación, si el sospechoso va armado o si estas tácticas/maniobras han sido autorizadas por un superior. (Alto rango = Escala de oficiales en el caso de GC, escala superior en el caso de CNP y escala superior en el caso de PL)  
+
+IMPORTANTE: Las maniobras PIT solo podrán ser ejecutadas en intervalos mínimos de 30 segundos.
+
+IMPORTANTE: Solo se podrán colocar un máximo de una banda de clavos (pinchos) por patrulla policial. (Si en un vehículo de policía tripulado por un binomio, cada agente despliega una banda de clavos, estos podrán ser sancionados por PG)
+
+2.8.2- Los bloqueos (Códigos 100) pueden ser utilizados para interceptar a los sospechosos, pero deben ser implementados de manera segura.
+
+2.8.3- Queda totalmente prohibido realizar códigos misiles (Ir directamente de cara hacia un vehículo). Podrías ser sancionado por NVV. (Es común que por las físicas del juego puedan producirse falsos códigos misiles, si se da el caso se deberá hacer rollback)
+
+Disparos a civiles:
+
+2.9- Si un policía está patrullando y un ciudadano le dispara, no tendrá la necesidad de avisar antes de abrir fuego. La policía podrá hacer uso del código radial QRR.
+
+Vestimenta y calcomanías de policía:
+
+2.10- Será obligatorio llevar la vestimenta y la calcomanía del coche cuando un oficial de policía se encuentre de servicio para poder identificarlos.
+
+Las unidades camufladas/secretas solo podrán llevar equipadas pistola, esposas y radio. (No se aplica si van uniformados)
+
+2.10.1- La policía tendrá la obligación de darle el número de placa a cualquier civil que este se la pida. En caso de no realizarlo se le podrá sancionar por NIP.
+
+Arresto de civiles desarmados:
+
+2.11- En caso de que un civil se niegue a ser arrestado por la policía y vaya desarmado, el agente estará en su derecho y obligación de usar sus armas no letales como son la porra, Taser, escopeta de goma, spray de pimienta etc.
+
+Uso de armas letales contra civiles desarmados:
+
+2.12- Nunca se podrá usar armas letales contra civiles desarmados. Se deberá hacer uso de la fuerza no letal. (Taser, extensible, escopeta, puff…)
+
+Actos delictivos fuera de servicio:
+
+2.13- Los policías fuera de servicio no podrán cometer actos delictivos (si se les atrapa, serán expulsados del cuerpo. Aparte de poder ser sancionados por FRP, siendo este la Nula Interpretación del Personaje) (Multas de tráfico, no se tomarán medidas adicionales siempre que el importe de la multa no exceda los 2000€).
+
+Oposiciones:
+
+2.14- Las facciones legales tienen totalmente PROHIBIDO, el favoritismo en las oposiciones, tampoco él acepto de soborno y mucho menos las faltas de respeto a los opositores, incluyendo estereotipos y prejuicios.
+
+Oposiciones privadas: Está prohibido hacer oposiciones privadas en todas las facciones legales. Para poder hacerlas deberán pedirle permiso a un encargado de facciones legales.
+
+Quedará prohibido suspenderle el derecho a oposición o subida de rango a cualquier usuario que tenga multas/antecedentes del capítulo 1, a excepción del “Art. 1.36” y “Art. 1.32”.
+
+Rangos:
+
+2.15- Las facciones legales tienen totalmente prohibido el famosísimo Free Rank, ascensos por dinero, robux etc.
+
+
+
+
+
+Operación de incógnito:
+
+Los cuerpos como PN, GC, PL podrán iniciar una operación de incógnito para la infiltración de uno de sus agentes a una organización criminal con el fin de conseguir información para una investigación, queda limitado 1 operación de incógnito entre los cuerpos de seguridad, eso quiere decir que si la GC tiene una operación en curso la PN no podrá iniciar otra hasta finalizar la actual. Facciones legales siempre deben estar informados de dicha operación en todo momento.
+
+QRR
+
+Un agente de la ley podrá mandar un QRR cuando su vida o la de algún compañero corra peligro siempre y cuando no le estén apuntando, ya que no estarían valorando su vida, esto quiere decir que si un policía va patrullando y un criminal se baja del coche y le comienza a apuntar tendrán totalmente prohibido lanzar un QRR.
+
+Ascensos dentro de las facciones legales
+
+Queda totalmente prohibido ascender vía oposiciones a cargos superiores, para poder subir de cargo se deberá valorar el trabajo, esfuerzo y actividad de los trabajadores para que vayan ascendiendo poco a poco acorde a su experiencia y labor, todo trabajador deberá comenzar en el rango más bajo e ir escalando, solo se permite para la GC/CNP hacer oposiciones para grupos especiales como puede ser el GEO o la UEI.
+
+3. Derechos Civiles
+
+Todo policía, antes de leer los derechos de un detenido, deberá indicar el delito por el cual ha sido detenido.
+
+Todo sujeto que vaya a ser trasladado a dependencias policiales (comisaría, comandancia o cárcel) deberá ser cacheado para quitarle cualquier cosa que puede suponer un peligro, antes de subirlo al patrulla.
+
+Los derechos deberán ser leídos antes de entrar en comisaría/cuartel/prisión (Incluyendo garajes).
+
+Los derechos son los siguientes:
+
+Derecho a guardar silencio a no declarar si no quiere, y a no contestar las preguntas que se le formulen, o a manifestar que únicamente declarará ante el juez.
+
+Derecho a no declarar contra sí mismo y a no confesarse culpable.
+
+Derecho a una llamada de no más de un minuto en presencia de un funcionario público.
+
+Derecho a ser asistido por un abogado sin demora injustificada.
+
+Derecho a acceder a los elementos de las actuaciones que sean esenciales para impugnar la legalidad de la detención o privación de libertad.
+
+Derecho a poner en conocimiento de los familiares o persona designada, sin ninguna demora, de la situación del detenido (razones) y lugar dónde se encuentra detenido en todo momento.
+
+Derecho a recibir asistencia sanitaria de ser necesario.
+
+Derecho a comida y bebida, así como a los útiles básicos de higiene.
+
+Los agentes de la ley que lleven a cabo una detención, deberán de leerle los derechos al sospechoso antes de llegar a comisaría, de lo contrario este deberá ser dejado en libertad si solicita el abeas-corpus y este es aceptado por un Juez.
+
+
+Si el policía no procede a la lectura de derechos o la realiza de forma errónea, el sujeto tiene la posibilidad de solicitar el "habeas corpus". Si este es solicitado por el detenido, se deberá de solicitar un Juez de Guardia mediante el Servidor de Discord del TJM de Andalucía:RP. Este juez dictaminará si el habeas corpus está bien solicitado y de ser así, se deberá de dejar en libertad al detenido o retirarle los cargos.
+
+ En caso de que no haya jueces disponibles, el arresto deberá continuar con normalidad.
+
+Si el detenido no ha entendido alguno de sus derechos, se deberá preguntar cuál es el derecho que no ha entendido y se le explicará. Si el detenido no responde a haber entendido o no sus derechos, se procederá a una segunda lectura de los mismos. Si tras esta segunda lectura tampoco se obtuviera respuesta, se repetirán los derechos por última vez y en caso de no haberlos entendido con la tercera vez se le meterá a prisión junto con el arresto y multa.
+
+4. Códigos Radiales
+
+Usamos códigos radiales que son palabras encriptadas, en el departamento abreviamos códigos de situaciones, igualmente somos muy estrictos a la hora de usar los códigos, todo miembro debe saber los códigos básicos, de lo contrario el miembro podrá ser sancionado levemente. Se recomienda el repaso y la memorización de estos.
+
+2. NORMATIVA 061 Y PC
+
+2.1- Respuesta a Emergencias:
+
+2.1.1- Los miembros de los cuerpos de sanidad deben responder rápidamente a las llamadas de emergencia y prestar asistencia médica de manera profesional y eficiente.
+
+2.1.2- Se requiere que los miembros de las facciones de sanidad mantengan la calma y la compostura en situaciones de alta presión, priorizando siempre la vida y la seguridad de los jugadores afectados.
+
+2.1.3- Las facciones de sanidad no podrán actuar en escenas en progreso. Ejemplo: Hay un tiroteo en progreso ya sea con policías y criminales o entre estos últimos. Las facciones de sanidad no pueden actuar hasta que un bando salga ganador y se termine el tiroteo. (Podrán ser sancionados)
+
+2.1.4- Siempre deberá de haber un CCU (Coordinador del Centro de Urgencias) de servicio cuando una facción de sanidad esté activa. Este deberá saber actuar bajo presión, atender las llamadas y qué unidades mandar a estas.
+
+2.1.5- En el caso de que un delincuente haya sido neutralizado y se encuentre en posesión de un arma, es importante informar a las autoridades policiales de que el individuo no ha sido esposado y aún tiene el arma en su poder.
+
+2.2- Traslado de Heridos:
+
+2.2.1- El traslado de heridos debe realizarse de manera segura y cuidadosa, siguiendo los protocolos establecidos para garantizar el bienestar de los pacientes. (Estos se encontrarán en los servidores internos de dichos cuerpos o facciones).
+A ser posible, con un policía como escolta si se da el caso de que el traslado sea a un criminal.
+
+3. NORMATIVA BOMBEROS
+
+Respuesta a emergencias:
+
+3.1- Siempre deberá de haber un CCU (Coordinador del Centro de Urgencias) de servicio cuando esta facción esté activa. Este deberá saber actuar bajo presión, atender las llamadas y qué unidades mandar a estas.
+
+3.2- Los bomberos deberán de acudir a llamadas de emergencias en Código 3. (Este código se encuentra en los códigos radiales). Para que los civiles puedan identificar que se trata de una emergencia y puedan ceder el paso a los vehículos de emergencias de esta facción.
+
+Prevención de incendios:
+
+3.1.1- Los bomberos deben llevar a cabo actividades de prevención de incendios, incluyendo inspecciones regulares de edificios y educación pública sobre seguridad contra incendios.
+
+3.2- Combate de Incendios:
+
+3.2.1- Los bomberos deben actuar rápidamente para extinguir incendios y proteger la vida y la propiedad de los jugadores afectados, siguiendo los protocolos asignados por su jefe. (Estos se encuentran en el servidor interno de esta facción)
+
+3.2.2- Los bomberos deberán cortar carreteras, echar a los civiles cercanos de las calles, para que no molesten en la intervención. Si los bomberos están muy ocupados, pueden llamar por radio interna refuerzos para que vengan a ayudarlos con lo mencionado anteriormente.
+
+4. NORMATIVA MANTENIMIENTO DE CARRETERAS
+
+4.1- Mantenimiento de Infraestructuras:
+
+4.1.1- El personal encargado del mantenimiento de carreteras está obligado a llevar a cabo inspecciones periódicas y realizar las reparaciones necesarias en las vías del servidor con el fin de garantizar la seguridad vial de los jugadores.
+
+4.1.2- En caso de detectarse daños graves o peligros potenciales en una carretera, el personal de mantenimiento deberá cortar las carreteras y actuar de manera inmediata.
+
+4.2- Señalización y Desvíos:
+
+4.2.1- Durante la realización de trabajos de mantenimiento en las carreteras, se deben colocar señales y desvíos adecuados en las zonas afectadas para alertar a los ciudadanos y prevenir posibles accidentes.
+
+4.2.2- Las señales y desvíos deben cumplir con los estándares de seguridad establecidos y ser claramente visibles para los usuarios de la vía.
+
+4.2.3- Es responsabilidad del personal de mantenimiento asegurarse de que las señales estén correctamente ubicadas y sean retiradas una vez finalizados los trabajos para evitar confusiones entre los conductores.
+
+4.3- Actuación en diferentes situaciones:
+
+4.3.1- El equipo de mantenimiento de carreteras y transporte debe estar preparado para enfrentar diversas situaciones que se puedan presentar durante su servicio, siguiendo los protocolos establecidos por la facción. Esto incluye la gestión del tráfico en caso de accidentes u obras en la vía pública.
+
+4.3.2- El departamento de transporte tiene la facultad de realizar incautaciones de vehículos en mal estado o mal estacionados que representen un peligro para la seguridad vial, pero queda totalmente prohibido incautar vehículos de SPAWN.
+
+5. Normativa Tribunal de Justicia
+
+5.1- Proceso Legal:
+
+5.1.1- El Tribunal de Justicia debe garantizar que todos los procesos legales se lleven a cabo de manera justa y transparente, respetando los derechos de los jugadores involucrados.(Estos se encuentran en el servidor interno de dicha facción.
+
+5.1.2- Se deben establecer procedimientos claros para la presentación de denuncias, la realización de juicios y la imposición de sanciones, asegurando la imparcialidad en todo momento.
+
+5.2- Resolución de Conflictos:
+
+5.2.1- El Tribunal de Justicia debe actuar como mediador en disputas entre jugadores, buscando soluciones equitativas y pacíficas para resolver conflictos dentro del servidor de roleplay.
+
+5.2.2- El tribunal podrá someter a los criminales a prisión permanente revisable en caso de:
+
+- Sobrepasar los 100k en multas.
+
+- Terrorismo.
+
+- Ser de una organización criminal.
+
+- Creación y reclutamiento de miembros para una organización criminal.
+
+5.2.3- El tribunal tiene totalmente prohibido ir con máscaras, gafas de sol o algo que le tape la cara.
+
+5.2.4- El tribunal no podrá embargar empresas hasta que el Encargado de Facciones Legales le dé el visto bueno.
+
+5.2.5- cualquier decisión tomada por el tribunal debe basarse en pruebas concretas y evidencia sólida, evitando juicios basados únicamente en suposiciones
+
+5.2.6- El tribunal deberá llevar un registro detallado de todos los casos y sentencias dictadas, garantizando la legitimidad de sus decisiones (Canal de informes).
+
+5.2.7- Se prohíbe la discriminación por cualquier motivo, incluyendo pero no limitado a la raza, género, orientación sexual, religión o nacionalidad, en todos los procesos judiciales y decisiones del tribunal.
+
+5.2.8- El tribunal tendrá la obligación de acudir a un “hábeas corpus” (En caso de no poder se deberá de realizar un juicio rápido en otro momento).
+
+5.2.9- El tribunal tendrá como principal responsabilidad atender denuncias de ‘’Espera de juicio’’
+
+Importante: En caso de que una facción legal se encuentre inactiva desde el equipo administrativo, se procederá con un cambio de jefe.
+
+Importante: En caso de que te salgas de una facción legal se te realiza un player kill total (PKT) automático, eso quiere decir que no podrás recordar nada de lo que haya pasado en tu vida mientras estabas en esa facción.
+
+
+
+Capítulo 1: Conceptos básicos del RP
+
+Art. 1 - Conceptos de rol:
+
+A continuación se mencionan los términos y conceptos más básicos y comunes en el ámbito del RP, todo usuario tiene la obligación de entender y respetar los siguientes conceptos: (Cualquier duda sobre los conceptos que se mencionan a continuación podrá ser resuelta en el canal de #dudas del servidor de discord)
+
+RDM / RK (Random Deathmatch /Random Kill): Se refiere a cuando un jugador mata a otro sin una razón válida en el contexto del rol. Es decir, el jugador no tiene una justificación en la historia del personaje para haber realizado el asesinato.
+
+
+BD (Bad Driving): Consiste en conducir de forma que no lo harías en la vida real, como conducir en poblado de día a 120 kilómetros por hora saltándose todos los semáforos.
+
+
+VDM (Vehicle Deathmatch): Consiste en usar un vehículo como arma para herir o matar a otro jugador. (Sin rol previo)
+
+ 
+
+MG (Metagaming): Es cuando un jugador utiliza información fuera del juego para tomar decisiones dentro del juego. Por ejemplo, si un jugador sabe que otro está planeando un asalto porque lo ha leído en un chat externo y utiliza esa información en el juego, eso sería Meta-Gaming.
+
+MG2 (Confundir Canales): Es la confusión de cosas IC con OOC.
+
+
+SK (SpawnKill o SpawnKidnap): Matar o secuestrar a alguien en Spawn o esperar a que salga de este lugar para hacer estos actos ilicitos.
+
+
+Power-Gaming: Es cuando un jugador realiza acciones imposibles o poco realistas en el contexto del juego para obtener una ventaja. Por ejemplo, si un jugador permanece bajo el agua durante 10 minutos para escapar de una situación peligrosa, ya que el juego sé lo permite, eso sería Power-Gaming. Otro ejemplo de Powergaming en ARP sería subir con un vehículo que no sea del tipo “SUV”,  “Truck” o “ATV” por la montaña ya sea por la parte delantera o pasar del bunker por la parte trasera. Subir por la cuesta de la postal “700” con un vehículo que no sea de los tipos mencionados anteriormente seguirá considerándose PG. Otro ejemplo de PG sería el uso de la tercera persona para proporcionar una ventaja táctica en ciertos roles por ejemplo en un tiroteo ya sea para iniciarlo o durante el mismo.
+
+
+NIP (Nula Interpretación de Personaje): Es cuando un jugador actúa de una manera que no está en línea con el rol que está desempeñando. Por ejemplo, si un jugador que interpreta a un personaje policía comete un crimen, eso sería NIP.
+
+
+New Life Rule (NLR): Se refiere a una regla comúnmente aplicada en los servidores de RP de GTA, que indica que cuando un personaje muere, pierde todas las memorias y conocimientos previos a su muerte. Esto significa que no debe volver a la escena del crimen o tomar represalias contra los personajes que lo mataron.
+
+
+Fear-RP: Es cuando un jugador no actúa de manera realista en situaciones peligrosas o intimidantes. Por ejemplo, si un jugador no muestra temor ante la amenaza de un arma apuntándole, eso sería Fear-RP.
+
+
+CK (Character Kill): Es cuando un personaje muere de manera definitiva en el juego. Esto significa que el jugador debe crear un nuevo personaje desde cero.
+
+
+PK (Parcial Kill): Regula los recuerdos de tu personaje y la muerte del mismo. Si tu personaje cae inconsciente o muere, ya sea reanimado por un médico o no, recibirá un PK. (No podrá recordar nada del rol completo en el que estaba involucrado al caer inconsciente/ser abatido)
+
+
+PKT (Player Kill Total): Consiste en que un PJ pierde totalmente la memoria, pero mantiene sus objetos, propiedades, progreso, etc. (Casos así se pueden rolear, por ejemplo, tras un fuerte accidente de tráfico o tras un tiroteo donde el PJ haya salido muy perjudicado)
+
+
+RP (Roleplay): Es la interpretación de un personaje y la creación de una historia y personalidad coherentes dentro del juego. El roleplay es la base de los servidores de roleplay de GTA y permite a los jugadores crear historias y experiencias únicas.
+
+
+OOC (Out of Character): Es todo lo que ocurre fuera del rol. Por ejemplo, cuando los jugadores hablan entre sí usando el chat del juego para discutir problemas técnicos o planificar su próxima acción.
+
+
+IC (In Character): Es todo lo que ocurre dentro del rol. Por ejemplo, cuando los personajes interactúan entre sí y actúan en consecuencia con su personalidad y la historia de su personaje. Nota: Cualquier tipo de ataque, burla, insulto o discriminación hacia una persona por su identidad de género, ya sea IC u OOC, podrá ser motivo de sanción. Esto incluye comentarios relacionados con la identidad de género, ya sea en términos de orientación, expresión o transición de género.
+
+
+Trolling: Es cuando un jugador actúa de manera malintencionada para arruinar la experiencia de juego de otros jugadores. Por ejemplo, saturar tu micrófono molestando al resto de usuarios.
+
+
+Fairplay: Igualdad de condiciones entre todos los usuarios en el RP
+
+
+Entorno: Se deberá enviar una llamada a la policía cada vez que se inicie un rol agresivo en cualquier zona transitada donde hubiera gente en la vida real sin importar la hora (Calles/carreteras). Siempre se deberá aportar en el entorno la máxima información posible como número de sujetos, vehículos en los que circulan, etc.
+Ejemplo: “/Entorno: 3 enmascarados secuestraron a un civil y lo han metido en un Porsche blanco en el concesionario.” El entorno solo se podrá enviar después del rol agresivo si solo es una única persona el que lo inicia. Ejemplo: Si un grupo de personas secuestran a otra, el entorno se deberá enviar en el mismo momento en el que apuntan al sujeto (Mientras que unos secuestran al sujeto, los otros deben mandar el entorno). Si un solo usuario secuestra a otro, este podría enviar el entorno después de haber subido al secuestrado al vehículo.
+
+ER (Evadir Rol): Como indica su nombre, la evasión de un rol, como por ejemplo desconectarse en medio de un rol.
+
+NVVPJ (No Valorar La Vida de tu Personaje): Hacer cualquier cosa arriesgando la vida de tu PJ. Ejemplo: Te apuntan con un arma y cuando te estén apuntando tú sacas la tuya y le matas.
+
+NVVPJ2 (No valorar la vida de tu compañero): Hacer cualquier cosa arriesgando la vida de tu compañero. Ejemplo: Están apuntando a tu compañero y tú vas corriendo a tirotear mientras le están apuntando a tu compañero.
+
+
+BJ (Bunny jump): Saltar repetidas veces para esquivar balas o para ir más rápido por algunos sitios…
+
+BA (Bug Abuser): Es cuando abusas de un bug ocurrido para tu propio beneficio.
+
+
+NRE  (No Rolear Entorno): No rolear el entorno que rodea a tu personaje. Ejemplo: Sacar un arma en la comisaría.
+
+
+NRH (No Rolear Heridas): No rolear las heridas de tu PJ. Ejemplo: Te acuchillan y no roleas dicho apuñalamiento.
+
+
+NRC (No Rolear Choque): No rolear la colisión contra X objeto. Ejemplo: Chocas a 80 MPH y no te tiras al suelo.
+
+
+PI (Provocación Innecesaria): Realizar una provocación sin ningún tipo de necesidad, como por ejemplo: ir a un control policial a derrapar para que inicien una persecución contigo.
+
+
+Combat logging: Desconectarse del servidor para evitar las consecuencias del rol como morir, ser arrestado, robado, etc. (De ser reincidente se podrá sancionar con agravadas)
+
+
+HQ: Lugar/es principal/es de una facción, en donde aparecen, se abastecen de coches, armas, etc. Están protegidas por un rol de entorno donde no se podrán acceder sin ser parte de la facción, a menos que se haya iniciado un rol agresivo previo o con autorización IC de algún miembro. (Ej: Comisaria CNP y GC +  Hospital + Estación Bomberos 1 y 2 + DT + Cárcel + Rotondas de pandilla/banda/mafia + etc.)
+
+
+IHQ: (Invadir una HQ) En el momento en el que un usuario accede a una HQ sin motivo/autorización de peso se considerará invasión de la misma. Únicamente se podrá acceder a las HQ con una autorización de algún miembro de dicha facción, ya sea en una comisaría, hospital, rotonda de barrio, etc. En el caso de los barrios, no se podrá acceder a las rotondas, ya que se considerará que será la HQ pero al barrio sí. (Ej: No podrás entrar a la rotonda de housing, ya que es una HQ, pero a housing sí, aunque sea zona controlada por una pandilla/banda/mafia) Excepción: La policía podrá entrar al HQ de una pandilla/banda en caso de que se esté acudiendo a un llamado. (QRR, emergencias, refuerzos, etc.)
+
+
+Avatar irrealista: Queda prohibido emplear avatares que no se asemejen a la anatomía humana. Se podrán usar “disfraces” para justificar el uso de avatares que puedan ser considerados irrealistas con la condición de que estos respeten las leyes de la física (Ej: Un avatar de esqueleto sería irrealista, ya que podría verse a través del PJ)
+
+
+ZZ: (Zig Zag) Moverse de lado a lado repetidas veces para esquivar balas o para tener una ventaja táctica.
+
+
+Nota: Si se reporta un comportamiento o rol que no es mencionado en las normativas del servidor. La resolución del mismo dependerá de la decisión de un superior que se encuentre disponible. Cuando ocurra un reporte de este tipo, se deberá notificar a un alto rango del staff para que pueda ser añadida a la normativa. Una vez añadido a la normativa, la decisión tomada por el superior en el reporte podrá ser revocada/modificada. (Ej: Si el superior en el reporte sancionó al reportado por X motivo, si al añadirlo a la normativa no es tan grave o se tipifica su sanción como aviso, la sanción del reportado será eliminada)
+
+
+Nota: En caso de querer rolear una alteración visual de tu personaje (como llevar/quitarse una máscara) se deberá tener una grabación en la que se muestre como el usuario rolea un “/me” en el que su PJ realice dicha alteración. Además de poner un “/do” en el que se mencione la alteración del personaje. (Ej: “/do tendría máscara”)
+
+
+
+
+Capítulo 2: Armamento
+
+Art. 1 - Armamento civil:
+
+Art. 1.1: Se deberá de tener el arma comprada en Discord para poder usarla en rol, de lo contrario se podrá ser sancionado.
+
+Art. 1.2: La única arma legal (IC) es la Beretta M9.
+
+Art. 1.3: Todas las armas a excepción de la Beretta M9 son ilegales y se deberá de pertenecer a una Pandilla / Banda / Mafia para poder comprarlas u obtenerla en un intercambio de armas en la deep web.
+
+Art. 1.4: Para poder comprar la Beretta M9 necesitarás tener comprada la licencia de Beretta M9, ya que si no la tienes, no te dejará comprarte el arma. (Ya que la compra de la M9 se hace de manera legal)
+
+Art. 1.5: Los jugadores que posean armas de gran tamaño como fusiles AK-47, ametralladoras M249, fusiles PPSH-41 o rifles de francotirador, deberán equiparse algún tipo de mochila o bolsa para poder transportarlas de manera discreta, en caso de no poseer dichos accesorios se deberá rolear con un /do tendría un *el arma que transporta* atada a la espalda cada vez que entre a un rol con otros jugadores. (No cuenta si se usa un vehículo)
+
+Art. 1.6: Los integrantes de una pandilla/banda/mafia tendrán la posibilidad de recuperar las armas que tengan equipadas sus compañeros que hayan sido abatidos, no obstante no Podrán hacer uso de estas armas. El arma recuperada siempre se deberá rolear, tenerla encima, en caso de decidir rolear deshacerse del arma como tirarla al río o al vertedero, el rol de Discord del usuario cuya arma ha sido destruida deberá ser retirado, de lo contrario ambos sujetos recibirán una sanción. Las armas únicamente podrán esconderse en vehículos o viviendas y si estos son revisados siempre deberán ser encontradas.
+
+Art. 1.7: Únicamente se podrán comprar armas de manera anónima en el canal de “deep web”. Comprar un arma distinta a la Beretta M9 en el canal de “cajero” (o en otro canal público) podrá ser usado IC por la policía para investigaciones criminales del usuario o su organización criminal.
+
+Art. 2 - Armamento FCSE:
+
+Art. 2.1: El armamento de las FCSE dependen del nivel de alerta actual que experimenta el servidor. En las alertas verdes y amarillas, la policía solo podrá usar las armas que se les especifica en la información de la alerta, sin embargo, en la alerta naranja y roja las armas que se mencionan son las que llevan los agentes que no son unidades especiales/especializadas, ya que estos tienen una normativa propia de armas dependiendo del cuerpo y unidad.
+
+
+Importante: Independientemente de la alerta que esté vigente, la policía solo podrá hacer uso de sus armas letales contra civiles visiblemente armados o contra aquellos que hayan disparado sus armas de fuego en presencia de la policía. (Los usuarios que usen armas cuerpo a cuerpo no podrán ser abatidos con armas de fuego a menos que sean varios los que hagan esta práctica o si ya han abatido a un civil/policía con dicha arma blanca)
+
+
+Importante: Independientemente de la alerta que esté vigente, la policía sólo podrá hacer uso de sus armas letales contra vehículos sospechosos si el conductor o pasajeros del mismo van armados y han disparado sus armas en presencia de la policía. También se puede disparar a las ruedas del vehículo si este ha sido usado en una persecución que se ha prolongado por más de 2 minutos o si el sospechoso ha intentado atropellar a un agente o civil. (Abalanzarse sobre un coche a propósito para que se aplique esta norma es reportable por NVV)
+
+
+Nota: El uso de los pinchos no estara permitido durante una persecucion si esta no supera los 2 minutos. (Excepciones: Secuestros, atracos o atrincheramientos)
+
+
+Nota: Independientemente de la actuación llevada a cabo por un agente de policía, si un civil le pide el número de placa a un policía (no incluye PM), este estará obligado a darle el número de placa, ya que si este se niega o le miente dándole un número de placa que no corresponde, el agente podrá ser reportado por NIP.
+
+Excepcion: Aquellos agentes que esten desplegados como unidades de investigación como la UCO o el CGI, podran dar una placa distinta a la suya habitual que deberá estar asociada a la reglamentaria en el canal de placas del servidor de discord del cuerpo por si dicho agente es denunciado. (Ejemplo: @ignacio368 - Placa: 325 | Placa UCO: UCO-387).
+
+
+Importante: Las FCSE podrán usar unidades rayo para perseguir sospechosos en las siguientes circunstancias:
+
+· En un robo a mano armada si el o los sospechosos emplean un deportivo como vehículo de huida. (También se podrá usar una unidad rayo si los sospechosos huyen del atraco con el “2024 FALCON ESTALLION” o con el “2022 FERDINAND JALAPENO TURBO”)
+
+· Durante una persecución en alerta naranja o superior, si el vehículo de huida es un deportivo, el “2024 FALCON ESTALLION” o el “2022 FERDINAND JALAPENO TURBO”.
+
+· En alerta roja se podrá usar cualquier unidad rayo para cualquier tipo de persecución.
+
+
+Nota: Las unidades rayo son los vehículos de policía de dos plazas y aquellos de altas prestaciones. (Bullhorn Prancer Widebody)
+
+
+Nota: Los únicos vehículos que podrán llevar barras PIT serán aquellos catalogados como “SUV”, “TRUCK” e “INDUSTRIAL”. A excepción del “Falcon eStallion 2024” que no podrá equiparse dicha barra.
+
+
+Nota: El puente de luces rotatorio “Led Rotary Lightbar” solo podrá ser usado por el CNP en aquellos vehículos con textura antigua y aquellos con la bandera lateral diagonal. La PL solo podrá usar dicho puente en los siguientes vehículos: “Falcon Prime Eques” (Ford crown victoria) “2006 Chevlon Captain PPV”, “2000 Chevlon Camion PPV”, “2002 Falcon Traveller” y “2008 Chevlon Camion PPV”. La Guardia Civil no podrá usar dicho puente de luces. El puente de luces rotatorio “Rotary Bar Classic” solo podrá ser usado en los vehículos de la Guardia Civil que sean inferiores o iguales al año 2008.
+
+
+Nota: La policía, por rol de entorno, siempre se roleará que llevan una bodycam activa en todo momento. Los civiles podrán llevar una bodycam, pero deberán rolear que la encienden en el propio video para poder ser usado IC. Las bodycams, independientemente de quién las lleve, dejarán de grabar si el PJ que las porta es abatido. (Al ser abatido, el video de ese rol quedará eliminado/corrompido)
+
+
+Nota: Los vehículos de emergencias por rol de entorno siempre se roleará que llevan una cámara activa en todo momento ubicada en el salpicadero. Estas dejarán de grabar si el vehículo es destruido. (Entra en llamas)
+
+
+Nota: Las FCSE solo podrán enviar un helicóptero si tienen al sospechoso/os a la vista. No seguir esta norma es considerado PG. (En caso de ser un vehículo, que este tenga matrícula o no es irrelevante, se podrá enviar helicóptero si lo tienen a la vista.) La policía solo podrá enviar un máximo de un helicóptero por persecución.
+
+
+Nota: Las FCSE podrán hacer uso del llamado "Código 100" durante una persecución que consistirá en emplear el vehículo de policía como bloqueo físico en la trayectoria del vehículo sospechoso. En ningún caso puede usarse en persecuciones en altas velocidades o si el vehículo a la fuga está cerca del coche de policía que desea hacer el código 100, ya que podría considerarse "NVV" por parte del agente que efectúa la maniobra.
+
+Excepción: Se podrá hacer un código 100 a altas velocidades si el coche de policía que efectúa la maniobra está sin ninguna persona dentro.
+
+
+Nota: Se considerará PG usar un taser para pinchar las ruedas de un vehículo.
+
+
+Nota: Las FCSE unicamente podran emplear francotiradores fuera de la normativa de robos y secuestros a partir de la alerta naranja + unidades especiales/especializadas + sujeto atrincherado. El uso del francotirador está permitido en alertas bajas (Verde y Amarilla) si se emplea para hacer reconocimiento de areas o recopilar información pero en ningun momento para disparar.
+
+
+Nota: Las FCSE solo podrán usar los vehículos “quads”, “buggies” o “ATVS” bajo las siguientes condiciones:
+
+
+Dichos vehículos solo podrán circular en zonas rurales (Montaña, granjas, cultivos, bosque, Springfield) a excepción de si están en una persecución o son llamados a cierta ubicación porque se necesiten dichos vehículos. (En ciudad si se podrán usar) (En patrullajes no podrán usarse en lugares como autopista)
+ 
+
+Los agentes que estén en estos vehículos (independientemente si conducen o no) solo podrán portar y usar pistolas como arma de fuego letal. (Independientemente de la alerta vigente)
+
+Los agentes que tripulen estos vehículos (“quads”, “buggies” o “ATVS”) tendrán prohibido realizar paradas de tráfico a excepción de la Guardia Civil (Normal y de tráfico) y de la policía local. El Seprona podrá hacer paradas si presencia un delito medioambiental/forestal/animal. El CNP podrá hacer paradas de tráfico si presenta múltiples infracciones en un corto periodo de tiempo por parte del mismo infractor.
+
+Estos vehículos podrán ser usados por todos los cuerpos, pero un máximo de dos al mismo tiempo por cuerpo. (Aquellos que estén subidos a un remolque contarán como vehículo en uso)
+
+Nota: Si uno o más criminales se dan a la fuga en un vehículo “quad”, “buggie” o “ATV”, las FCSE no podrán hacer maniobras PIT ni embestir estos vehículos a menos que los criminales vayan armados y hayan disparado sus armas en presencia de la policía. Las FCSE podrán seguir empleando tácticas para detener dichos vehículos como el uso de las bandas de clavos, bloqueos, etc.
+
+Capítulo 3: Actos Ilícitos
+
+Art. 1 - Empezar una organización criminal:
+
+Para empezar un proyecto, se tendrá que tener las ideas claras y haber tenido roles previos de criminal:
+
+
+NORMATIVA BÁSICA FACCIONES ILEGALES
+
+
+Art. 1.1: El encargado de facciones ilegales, si ve que la mafia/banda/pandilla no lleva una buena interpretación de esta, podrá disolver la facción ilegal.
+
+Art. 1.2: Máximo 6 integrantes por pandilla, máximo 7 por banda y máximo 8 por mafia. (Todo aquel que no tenga los roles de dicha organización en discord no podrá rolear de pandilla/banda/mafia).
+
+Art. 1.3: Si el líder/líderes de una mafia, banda o pandilla sufren un CK no podrán volver a ser líderes de la misma si regresan tras el CK a la mafia/banda/pandilla.
+
+Art. 1.4: Los miembros de una mafia/banda/pandilla no podrán revivir a otros jugadores si estos son abatidos, incluso si este pertenece al 061.
+
+Art. 1.5: Se permitirán alianzas entre mafias/bandas/pandillas/civiles en los casos descritos en la normativa de facciones ilegales.
+Art. 1.6: Si un miembro abandona, los miembros podrán hacerle un PK.
+
+Art. 1.7: Para los ataques a Territorios/Barrios/Zonas, los atacantes tendrán que tener un motivo IC para atacar a la otra banda/mafia/pandilla y será obligatorio que el encargado de facciones ilegales de el visto bueno y os comunique como se debe "capturar" las zonas dependiendo si los atacantes son Mafia, Banda o Pandilla.
+
+Art. 1.8: Está permitido crear discord ajeno para la mafia/banda/pandilla, siempre que el encargado de facciones ilegales esté en dicho discord o un staff que supervise.
+
+Art. 1.9: Solo se permite un máximo de 3 líderes por mafia/banda/pandilla.
+
+Art. 1.10: Si queréis hacerle CK2 a alguien, tendréis que abrir un ticket con su plantilla y motivo correspondiente.
+
+Art. 1.11: Los territorios de las pandillas/bandas/mafias serán zonas públicas y los integrantes de dichas organizaciones no podrán atacar a nadie a menos que aquel que haya entrado sea hostil o integrante de otra pandilla/banda/mafia. (Robar a civiles si está permitido)
+
+Art. 1.12: Todos los civiles siempre deberán llevar encima el DNI.
+
+Art. 1.13: Un integrante de una pandilla/banda/mafia no podrá unirse a otra pandilla/banda/mafia directamente. Para hacerlo en primer lugar se deberá abandonar la actual pandilla/banda/mafia y pasados 7 días podrá unirse a otra pandilla/banda/mafia.
+
+Art. 1.14: Todos los usuarios al ser abatidos siempre deben rolear que el arma que estaban usando (en caso de tenerla equipada) ha caído al lado de su cuerpo.
+
+Art. 1.15: Queda totalmente prohibido el iniciar roles agresivos contra cualquier facción legal que no sea policía, esto quiere decir que no podéis realizar acciones hostiles contra DOT (A excepción de que se lleve un vehículo que está siendo usado en una actividad ilegal), 061, BOMBEROS etc. En caso de que una de las facciones inicie un rol agresivo contra vosotros, podéis actuar de la forma que consideréis oportuna como criminales.
+
+Nota: Si uno o varios miembros de una facción legal están informando a la policía de una actividad criminal, se considerará rol agresivo.
+
+
+Rol de criminal: El rol de criminal en el discord no será obligatorio para cometer actos delictivos, pero sí que es óptimo tenerlo de interpretar un PJ criminal, ya que dicho rol le dará acceso a comandos como el “/crimen”, canales como la deep web, juegos de casino como la ruleta rusa y demás contenido exclusivo para criminales.
+
+
+Aspectos a tener en cuenta:
+
+
+Solo las mafias/bandas/pandillas podrán usar una radio como comunicación (En caso de no ser ni mafia ni banda ni pandilla, se podrá usar una escena como “llamada telefónica” por un máximo de 30 minutos, de lo contrario los usuarios implicados podrán recibir una sanción)
+Se considerará convoy más de 3 vehículos juntos de la misma organización criminal (Solo las mafias/bandas pueden hacer convoy, de lo contrario los implicados podrán ser sancionados)
+Solo las “bandas/pandilleros” podrán robar a civiles, ya que por rol, las mafias tienen objetivos de robos más ambiciosos y rentables.
+Si queréis hacerle CK2 a alguien, tendréis que abrir un ticket con plantilla de 「🎫」tickets con su motivo correspondiente.
+Art. 2 - Robos:
+
+Art. 2.1: Se podrá robar a otros jugadores siempre y cuando haya un mínimo de 5 policías.
+
+Art. 2.2: Se podrá retener en el lugar a la víctima durante 10 minutos teniendo como fin robar u otros fines como interrogar, etc., una vez transcurrido ese tiempo se procederá a dejar libre a la persona.
+
+Art. 2.3: No está permitido robar con armas largas o de alto calibre a los ciudadanos por la calle ni usar algún vehículo deportivo (2 puertas) para ello. (Ambas situaciones se considerarán NIP).
+
+Art. 2.4: En caso de que se realice el asalto, se deberá levantar las manos, y así este no podrá realizar ninguna acción de sacar algo de algún bolsillo o cintura para atacar a los ladrones. (De lo contrario se considerará NVVPJ).
+
+Art. 2.5: En la hora de que se realiza un robo a cierto civil se debe mandar un entorno correspondiente describiendo todo lo posible el hecho ocurrido. (Situación, número de sujetos, modelo y color de los vehículos, tipo de armas, descripción de los sujetos, etc.)
+
+Art. 2.6: No está permitido robarle las armas a otros jugadores, independientemente que este haya sido abatido, (Se puede quitar las armas a los secuestrados, pero no se podrán solicitar en #roles-apodos el arma robada). SOLO LOS POLICÍAS PUEDEN CONFISCAR ARMAS.
+
+
+
+ASPECTOS A TENER EN CUENTA:
+
+
+La máxima cantidad que se podrá robar a una persona será de 5.000 € en efectivo y está prohibido sacar dinero del banco por medio de un cajero, se considera PG2(Forzar Rol).
+No está permitido esperar a robar siempre en un mismo punto dado qué es sancionable.
+Cuando se le robé a una persona, no estará permitido volver a robar a la misma persona en un  plazo de 30 minutos.
+No está permitido robar a personas que estén en labor, como por ejemplo 061, mecánicos, bomberos, policías, etc. (Dado que en la vida real dichos servicios no llevan cartera ni pertenencias encima).
+La policía podrá cortar negociaciones con los atracadores si estos hieren de gravedad a uno o más rehenes (disparar, apuñalar, apalizar, etc.) (No cuenta como herir de gravedad, empujar, pegar o arrastrar al rehén). También podrán cortar negociaciones si los atracadores realizan alguna acción hostil contra la policía (tener un tirador, disparar a los agentes o a sus vehículos, etc.). En caso de que la policía no llegue a un acuerdo con el atracador, la policía siempre deberá ofrecerle la posibilidad de rendirse al atracador o cambiar el tema de las negociaciones de huida a tiroteo pactado (como se hace en robos como el banco), en caso de que se siga sin llegar a un acuerdo y se le nieguen en más de 5 ocasiones las mismas demandas imposibles de cumplir por parte de la policía (negarse a negociar por rehenes y botín), la policía podrá cortar negociaciones con los atracadores, pero siempre intentarán no disparar primero. Por último, si el atracador se queda sin rehenes dentro del lugar de robo, la policía deberá siempre persuadir al atracador a rendirse antes de cortar negociaciones. (Si un atracador se queda sin rehenes la policía podrá ignorar las negociaciones pactadas previamente justificando que el atracador ha dejado de suponer una amenaza para la vida de los civiles y que darle la posibilidad de huir supondría poner de nuevo en riesgo la seguridad de los civiles de la calle).
+Si se cortan negociaciones, la policía podrá solicitar refuerzos, sin embargo, los criminales no podrán hacerlo. (Negociar tiroteo no cuenta como cortar negociaciones una vez se inicie el tiroteo) Excepción: Los integrantes de una banda/mafia podrán llamar refuerzos a criminales de su organización hasta un máximo de 2. (Esto solo se puede hacer si es en un robo o la persecución de un robo, de hacerse en un secuestro, persecución normal, etc., los criminales que aparezcan como refuerzos podrán ser sancionados por meterse en rol ajeno.)
+El tiempo máximo para llegar a una negociación con la policía será de 15 minutos. (Pasado ese tiempo se rompen negociaciones)
+Si durante un robo/secuestro se negocia “salida limpia” los agentes de las FCSE no podrán obstaculizar o sabotear las salidas del área donde se negocia dicho término. Por ejemplo, en un robo a la gasolinera de Springfield en caso de negociarse “salida limpia” los policías no podrán obstaculizar o sabotear ninguna de las salidas de Springfield, pero sí podrán hacerlo en lugares como autopista (a una distancia considerable de la salida), granjas, housing, etc.
+En los atracos a joyerías, bancos, furgones y concesionarios, la policía podrá desplegar unidades especiales/especializadas con sus respectivas armas de cada unidad, independientemente de la alerta vigente.
+Art. 3 - Secuestros:
+
+Art. 3.1: Se podrá secuestrar siempre y cuando haya policías en servicio.
+
+Art. 3.2: Para secuestrar a alguien, siempre se deberá tener un motivo para hacerlo, por ejemplo, para utilizarlo como rehén en un robo, para interrogarlo, etc.
+
+Art. 3.3: Se podrá secuestrar a un máximo de 2 rehenes por organización criminal (banda, mafia etc.), solo uno de ellos podrá ser policía, en caso de que la organización tenga planteado secuestrar para cometer un atraco podrá utilizar a un rehén ficticio adicional el cual será el cajero del establecimiento, sumando así un total de 3 rehenes.
+
+Art. 3.4: Se podrá retener por un máximo de 15 minutos a las personas secuestradas.
+
+Art. 3.5: No está permitido secuestrar a un usuario usando algún vehículo deportivo (2 puertas) para ello.  (Se considerará NIP)
+
+Art. 3.6: El tiempo máximo para llegar a una negociación en caso de que el secuestrado sea usado como moneda de cambio será de 15 minutos. Pasado ese tiempo se rompen negociaciones y los policías tendrán permitido el uso de francotiradores para abatir a los criminales. (Deberán dejar el francotirador en cuanto los criminales sean abatidos)
+
+Art. 3.7: Si durante un secuestro se negocia “salida limpia” los agentes de las FCSE no podrán obstaculizar o sabotear las salidas del área donde se negocia dicho término. Por ejemplo, en un secuestro a la gasolinera de Springfield en caso de negociarse “salida limpia” los policías no podrán obstaculizar o sabotear ninguna de las salidas de Springfield, pero sí podrán hacerlo en lugares como autopista (a una distancia considerable de la salida), granjas, housing etc.
+
+ASPECTOS A TENER EN CUENTA:
+
+
+Para secuestrar a algún civil se necesitará tener al menos tres o cuatro policías en servicio.
+Para secuestrar un oficial o un guardia civil se necesitará una razón y tener en servicio a un mínimo de 7 policías, además solo se podrá secuestrar a un único policía a la vez.
+Si la policía llega al lugar acordado y se da un trato razonable, se debe liberar a los secuestrados SI o SI.
+Está totalmente prohibido campear en un solo sitio esperando a secuestrar a alguien, siempre se deberá estar en movimiento.
+Intimidar a un civil o policía no será efectivo si este se encuentra en un vehículo en movimiento a más de 20 MPH.
+La policía podrá cortar negociaciones con el secuestrador si este hiere de gravedad a uno o más rehenes (disparar, apuñalar, apalizar, etc.) (No cuenta como herir de gravedad, empujar, pegar o arrastrar al rehén). También podrán cortar negociaciones si el secuestrador realiza alguna acción hostil contra la policía (tener un tirador, disparar a los agentes o a sus vehículos, etc.). En caso de que la policía no llegue a un acuerdo con el secuestrador, la policía siempre deberá ofrecerle la posibilidad de rendirse al secuestrador u ofrecerle ofertas justas y posibles de cumplir (si continúa negándose en más de 5 ocasiones, la policía podrá abrir fuego contra el secuestrador (Uso de francotirador autorizado para estos casos concretos). Por último, si el atracador se aleja del rehén por más de 5 metros o deja de apuntarle, la policía podrá abatir al secuestrador en ese preciso instante. (Si se vuelve a acercar al rehén ya no será válido abatir al secuestrador)  (Uso de francotirador autorizado en estos casos). Nota: Cuando se abata a un secuestrador por no apuntar a un rehen, en caso de duda si en el POV del atracador en el momento de ser disparado estaba apuntando a un rehen se cosiderará “NVVPJ2” por parte de la policia.
+
+Art. 4 - Robos a Locales/Banco/Furgón:
+
+Art. 4.1: El vehículo de huida de los asaltantes deberá estar cerca del lugar de robo y visible para los policías.
+
+Art. 4.2: La policía de la zona no podrá pinchar ni hacer ningún acto sospechoso ante los atracadores, ya que pondría la vida de los rehenes en peligro.
+
+Art. 4.3: El robo al furgón blindado será completamente aleatorio y para poder robarlo se deberá destruir por completo el furgón y permanecer al lado del furgón durante 2 minutos. (Los ocupantes del furgón no podrán ser intimidados, ni tendrán porque bajar del furgón una vez se les apunté, dado que el propio furgón les protege)
+
+Art. 4.4: En todas las tiendas/locales podrán usar al dependiente como rehén ficticio, lo que quiere decir que si un atracador secuestra a un rehén y lo retiene en una tienda, se deberá rolear con la policía que se tiene al dependiente y al secuestrado como rehén, teniendo así un total de 2 rehenes. (Solo puede haber un único rehén ficticio)
+
+Art. 4.5: Solo se podrán secuestrar a un máximo de dos rehenes por atraco (Atracadores infiltrados cuentan como rehenes), teniendo un máximo de 3 rehenes por atraco (Contando al rehén ficticio)
+
+Art. 4.6: El atracador que negocia con la policía es el que tiene el botín del robo, lo que quiere decir que si este es abatido/arrestado no se podrá reclamar el botín. (No está permitido darle el botín a nadie, enterrarlo, esconderlo, etc.)
+
+Art. 4.7: El vehículo de huida de cada robo deberá ser acorde a dicho robo, por ejemplo estará prohibido robar una gasolinera usando un vehículo de gama alta, ya que no tiene sentido robar dicho local que por lo general no supone un botín de mucho valor usando un vehículo de alta gama que supera con diferencia el botín del robo de la gasolinera.
+
+Nota: Para más información vaya a #recompensas-robos, lugar donde se encontrarán los requisitos y las normas básicas de cada robo.
+
+Robo a banco
+
+
+En el robo a banco, todos los atracadores (excepto tiradores) y rehenes deberán estar en la parte interior delantera del mismo. En esa área es donde se pactara con la policía el tiroteo y al llegar a un acuerdo los policías deberán dejar a los atracadores iniciar el robo en la parte trasera del banco y a partir de ese momento la policía deberá dejar al menos 5 segundos de inmunidad a los atracadores para que estos se posicionen y una vez pasados dichos segundos la policía podrá actuar dentro de los límites de las negociaciones pactadas. Los atracadores podrán huir tanto por el banco como por el túnel de servicio.
+
+
+Se deberá negociar con la policía el tiroteo antes de realizarlo (No se puede disparar a las primeras unidades de respuesta a medida que van llegando al banco)
+
+A continuación se muestran las peticiones que pueden ser negociadas durante la etapa previa al tiroteo:
+
+-Botiquín → 1 rehén o 15% del botín (Solo 1 por persona) (Consiste en hacerle “:heal” a dicha persona siempre que esta no esté abatida)
+-Sin francotiradores → 2 rehenes o 30% del botín
+-No entrar al local hasta que todos los atracadores estén abatidos → 1 rehén = 3 minutos (Se pueden negociar tantos rehenes como se quieran) o 20% del botín por minuto
+-Sin escudos → 1 rehén o 25% del botín
+-Sin armas largas (M4 y G-36) → 1 rehén o 25% del botín
+-Soltar a un rehén a cambio de dinero = +2.000 € (Tantos rehenes como se quieran)
+
+Nota: Las peticiones pueden ser ignoradas en caso de que un rehén salga herido o el tiroteo se prolongue por más de 15 minutos.
+
+Estas peticiones pueden ser pactadas en otros atracos en caso de que los secuestradores quieran hacer un tiroteo y los rehenes estén en buenas condiciones.
+
+Robo a Furgón
+
+
+El robo a furgón consiste en asaltar el blindado del banco con marca de “Prosegur” interceptando su ruta, colocando explosivos en la puerta trasera y tomando el dinero que contiene en su interior.
+
+Este atraco estará disponible a partir de banda oficial. (Esta restricción puede variar dependiendo de si un administrador hace uso del comando “:H” para informar que el atraco puede efectuarse para todos los criminales, otras organizaciones, etc.)
+
+Únicamente se deberá usar explosivos para poder abrir las puertas del blindado. (No estará permitido quitarle las llaves, mando, etc. a los guardias)
+
+En este atraco, al usar explosivos, la policía no negociará y será indiferente que se tengan rehenes bajo el control de los criminales.
+
+Para darse este atraco como completado, los criminales una vez dentro de la bóveda del blindado deberán esperar un total de 2 minutos en su interior y pasado ese tiempo huir de la zona. (Los 2 minutos serán seguidos, en caso de salir de la bóveda antes de los dos minutos el tiempo no será válido)
+
+Independientemente de la alerta, la policía podrá asistir con unidades especiales/especializadas a los atracos de furgones blindados con sus correspondientes armas de la unidad.
+
+Únicamente se podrá robar el furgón si este contiene dinero. (Esto es visible dentro del propio juego)
+
+
+
+Capítulo 4: Temas relacionados con la muerte
+
+Art. 1 - Ghosting:
+
+Art. 1.1: Una vez muerto no podrás brindar ningún tipo de información, ya sea OOC o IC.
+
+Art. 1.2: En caso de que se esté usando una radio  al ser abatido, el usuario deberá ensordecer y mutear la radio, ya sea criminal o policía, de no cumplir con esta norma los usuarios implicados serán sancionados por MG.
+
+Art. 2 - Muerte en rol:
+
+Art. 2.1: Cuando un usuario muere en un rol tiene estrictamente prohibido volver a integrarse al mismo rol,  el hecho de que te hayan asesinado y vuelvas como si nada paso para realizar el mismo rol que antes de ser abatido será estrictamente sancionado. (En el caso de la policía, si un compañero le avisa desde radio si podrá volver a la llamada, PERO SIN TENER NINGÚN TIPO DE INFORMACIÓN que no sea la que el compañero le comentó por radio).
+
+Art. 2.2: Al estar abatido quedará terminantemente prohibido respawnearse a menos que pasen 3 minutos sin que haya nadie en las cercanías (Cuerpos incluidos)  
+
+Importante: Solo los bomberos y sanitarios tendrán permitido mover cuerpos (Esto incluye meterlos en vehículos)
+
+Importante: Si eres abatido tras un rol agresivo y deseas reportar una infracción de la normativa que se ha cometido por el equipo contrario, puedes ir a reportes estando abatido para evitar que ambos equipos pierdan el tiempo si el rol se da por nulo. Esto solo es válido si el usuario tiene pruebas y un motivo sólido. Ejemplo: Si estás escapando de la policía y durante la persecución eres víctima de lo conocido como “Pit-Fantasma” y eso provoca un tiroteo y por ende que te abatan, si tienes pruebas de lo sucedido, puedes decirle a los presentes en el rol que se dirijan a reportes para comentar la situación, por el contrario, si usted no tiene pruebas o el motivo no es sólido tipo “Me iba lag” el usuario reportante será sancionado por cortar rol.
+
+Importante: No se deben rolear las heridas de disparo hasta que el PJ esté abatido. Por el contrario, si se deben rolear heridas como accidentes, navajazos, peleas cuerpo a cuerpo, armas cuerpo a cuerpo (bate, martillo…) etc. (Está prohibido rolear que el chaleco ha parado/amortizado los disparos).
+
+En caso de ser atropellado deberá tirarse al suelo roleando heridas y no podrá levantarse hasta que no hayan pasado mínimo 6 segundos desde el atropello.
+
+Importante: Durante una parada de tráfico quedará prohibido disparar a los agentes que la estén realizando a menos que estés en busca y captura. (No tiene sentido que alguien dispare a un policía para librarse de una multa de 200 €)
+
+Importante: Durante un tiroteo quedará completamente prohibido “hacerse el muerto” presionando la “R” para parecer que estás abatido cuando en realidad no lo estás y esperar el momento óptimo para levantarte y retomar o iniciar un tiroteo.
+
+Importante: Si al finalizar un tiroteo contra la policía, estos quedan abatidos (todos) y no hay 061, BMB o PC conectados que puedan atenderles, los abatidos tanto criminales como policías podrán hacerse respawn pasados 3 minutos. (Solo puede aplicarse si no hay ninguno del otro bando con vida) (Queda prohibido "campear" cuerpos para evitar que estos se hagan respawn a menos que los que "campean" sean policías que esperan refuerzos, sanitarios, etc. para poder reanimar al abatido)
+
+Importante: Quedará prohibido hacerse CK voluntario teniendo roles pendientes como un juicio, un préstamo, una indemnización, etc.
+
+Art. 3 - Muerte a manos de la policía:
+
+En caso de que una persona muere a manos de un policía, tendrá únicamente dos opciones para seguir el rol del personaje:
+
+
+Rolear que un médico trate tus heridas estando en calle o llevando al hospital y después de dicho rol del médico, ser entregado a la policía y sancionado IC por los delitos cometidos
+Rolear que por alguna razón no sobrevives a las heridas causadas por la policía muriendo en plena calle o en el lugar que te encuentres. (En el caso de elegir esta opción se deberá abrir un ticket informando del CK).
+
+En caso de que ninguna de las dos haya sucedido, se le sancionará a las personas implicadas que hayan seguido el rol.
+
+
+Importante: Solo se podrán rescatar compañeros siempre y cuando el abatido y los rescatistas formen parte de la misma pandilla/banda/mafia oficial. El rescate siempre se deberá dar lugar en el traslado del detenido. (Una vez el detenido esté en una patrulla y esta comience su ruta)
+
+Se deberá amenazar/intimidar a los policías que están con vuestro compañero para que lo liberen, en caso de que lleguen refuerzos quedará prohibido abrir fuego contra ellos, teniendo que negociar la liberación de los policías a cambio del compañero, iniciando posteriormente una persecución. En caso de que los policías que estén con el detenido o los refuerzos abran fuego primero se podrá iniciar un tiroteo contra ellos, sin necesidad de negociación. Nota: La negociación siempre será la misma, se liberan a los policías a cambio del detenido y salida limpia. Jamás se podrán liberar compañeros si estos no han cometido crímenes de gravedad. (Robo a un local, iniciar un tiroteo, etc.) (Persecución NO se considera delito grave)
+
+Importante: La policía podrá hacerle CK a un criminal (Cadena perpetua) si se presentan ante un juez las pruebas suficientes para ejecutar dicho protocolo.
+(El encargado de facciones legales también podrá autorizar dicho protocolo de ser solicitado)
+
+Importante: Se le podrá solicitar el CK a un PJ que este siendo secuestrado/intimidado y este no este valorando su vida correctamente.
+
+Recordatorio: Cuando un usuario solicite un CK, deberá mantener el dinero que tenía ese personaje IC hasta el final, queda completamente prohibido pasarle el dinero a cualquier otro usuario en un plazo de 72 horas antes del CK sin importar que fuera una donación, herencia, pasarle el dinero a su hermano IC etc. (Todo aquel que haga esta práctica será sancionado y de ser reiterativo, aislado) (La cuenta del usuario que recibe el dinero será eliminada tras detectarse dicho comportamiento por el usuario que se hace CK) Evidentemente durante el plazo de las 72 horas el usuario podrá hacer uso de su dinero para llevar a cabo compras de bajo costo como pagar un taxi, la comida en un restaurante etc.
+
+Excepción: Si el staff que le atiende el CK sospecha que un usuario ha dado todo (o casi todo) su dinero a uno o varios usuarios y pasadas las 72 horas (aproximadamente) este usuario intenta hacerse CK con intenciones de evadir la pérdida del dinero, este podrá ser sancionado y su CK denegado.
+
+Cuando un usuario es arrestado, la policía deberá leerle al detenido sus derechos y en caso de que el detenido no los entienda se le podrán leer un máximo de 3 veces hasta darse por válida su lectura; Si el detenido se niega a escuchar la lectura de sus derechos, no responde, interrumpe constantemente o satura el micrófono, se considerará que ha sido informada. En ese caso, se roleará que se le entrega un documento con el contenido de sus derechos para que los lea por su cuenta, quedando constancia de ello en el procedimiento. (Si no se le leen los derechos y el detenido solicita el habeas corpus, se le procesa de igual manera y se le solicitará a un juez su intervención para confirmar la legalidad del arresto, ya que únicamente se le revertirán las consecuencias del arresto al detenido si un juez así lo dictamina después del finalizar el arresto.
+
+Durante un arresto, los agentes podrán optar por procesar al detenido en comisaría en el caso de que los agentes pertenezcan a la PL/CNP o en el cuartel en el caso de que los agentes pertenezcan a la GC. (Solo si la detención no es por delitos de sangre). El procedimiento regular para todos los cuerpos es trasladar al detenido a prisión.
+
+Si un jugador es abatido, ya sea con un arma de fuego o con un Taser, este tendrá prohibido hacer un "/me se resiste" o similares al ser engrilletado, ya que se considerará forzar rol. En otras situaciones, si un jugador engrilletado usa un "/me se resiste" o similares, este siempre deberá ir seguido de un "/do podría?", y será decisión del policía rolear si el jugador consigue escaparse de las esposas o no.
+
+Art. 4 - Valoración de vida:
+
+Si durante un rol se abre fuego hacia tu personaje , no será necesario el valorar vida a partir de ese momento, si te disparan al vehículo deberás valorar vida hasta el momento que disparen a  tu personaje, por ejemplo si persigues a un coche, le disparas para romperle las ruedas y luego lo intentas secuestrar/intimidar, será necesario que esa persona tenga que valorar su vida, pero si esa persona está a una distancia considerable y sale corriendo y le disparan a él, ya no será necesaria la valoración de vida a menos que esté rodeado por los sujetos que desean secuestrarle/intimidarle.
+
+
+Importante: Si un sujeto recibe un disparo y por ende deja de valorar vida, pasados dos minutos sin recibir disparos por los que le dispararon la primera vez, deberá volver a valorar vida.
+
+
+En caso de que esto suceda en un robo o en un secuestro, la policía no tendrá la necesidad de valorar vida una vez finalice la negociación, ya que el criminal habrá realizado acciones hostiles contra ciudadanos (secuestro) o contra el propio establecimiento (robo) portando un arma y haciendo un uso incorrecto de ella, por ejemplo se llega a una negociación y la persona pide salida limpia, se inicia una persecución y durante esa persecución el criminal se baja apuntando al policía para secuestrarle, en ese caso la policía ya no tendrá que valorar vida y podrá bajarse a abatir al sujeto. (Lo mismo se aplicaría si el criminal toma nuevos rehenes, ya sea en la calle o entrando a otro establecimiento)
+
+
+Si durante un rol ambas partes sacan el arma a la vez, se podrán disparar sin necesidad de valorar la vida.
+
+
+Tras un tiroteo, si uno o varios criminales son abatidos, sus compañeros podrán intimidar a los 061/bomberos/protección civiles presentes para que estos curen al criminal/es abatido. Esto solo será posible si no hay policías (vivos) en la zona y los 061/bomberos/protección civiles presentes hacen el proceso completo de tratar al herido (sin llevarlo al hospital). Este proceso puede detenerse si uno o varios policías aparecen en escena.
+
+Capítulo 5: Vehículos
+
+Art. 1 - Aspectos generales:
+
+Art. 1.1: Cada vehículo del juego tiene su espacio físico ya asignado, por ende no se puede llevar más personas de las que las físicas del juego permiten, por lo que por no es posible llevar o transportar a más personas que no estén dentro del vehículo, esto quiere decir que está prohibido el usar el maletero como espacio para pasajeros, aunque se use el “/do estaría en el maletero”.
+
+Art. 1.2: Al provocar un accidente con los vehículos, no servirá el “/do El cinturón haría efecto”, dado que es NRC.
+
+Art. 1.3: En el juego las matrículas de los vehículos se encuentran situadas en la parte trasera de los mismos, la única manera de ver y por ende recordar las matrículas será que tu PJ pueda ver la parte trasera del vehículo.
+
+Art. 1.4: Si un funcionario del “Departamento de Transporte” le incautó el vehículo, este le pondrá una “Nota” y le asignará el rol de “Vehículo Incautado” esto quiere decir que a menos de que le pague al funcionario el importe de la liberación del vehículo para que le retiren dicho rol, no podrá conducir otros vehículos, ya que de hacerlo la policía podrá arrestarle por “Robo de vehículo” cuya multa varía en función de la gama del coche.
+(No servirá como excusa manifestar que se poseen múltiples vehículos)
+
+Art. 1.5: Cuando un jugador experimente una colisión contra su vehículo, si la velocidad que el vehículo mantenía antes de la colisión era superior a 80 KM/H (MPH en el servidor IC), el jugador deberá rolear que sale disparado de la luna delantera y estar inconsciente durante al menos 2 minutos excepto si hay jugadores cerca, ya que entonces deberá esperar a ser reanimado. Si la velocidad era menor a la indicada, entonces se recomendará rolear la colisión con un “aght” o similares.
+
+Art. 1.6: Si la rueda de un vehículo es pinchada, el conductor del mismo solo podrá ir a un máximo de 35 km/h (MPH en el juego). Si se pinchan múltiples ruedas, el vehículo deberá ser detenido INMEDIATAMENTE. (Excepcion: Que las dos ruedas traseras del “Vellfire Prima” estén pinchadas a proposito para hacer drifting)  
+
+Art. 1.7: Estará prohibido spawnear un vehículo durante una persecución. Por ejemplo si durante una persecución, el jugador que está siendo perseguido abandona su vehículo por X motivos y corre a pie al spawn de vehículos más cercano para poder huir en el vehículo spawneado eso se considerará PG, ya que el segundo vehículo que has hecho aparecer no estaba allí antes/durante la persecución. Por el contrario, si se podrá huir en un segundo vehículo si este ya estaba spawneado (no ha sido generado al momento de usarlo). Si se podrá huir en un vehículo recién spawneado si el spawn es el garaje de una casa, ya que se roleará que el vehículo estaba en la cochera. (La casa debe estar en propiedad del jugador que está huyendo o de sus compañeros) (También se podrán usar como cambio los vehículos que están a la venta por la ciudad, pero esto en IG se considerará robo de vehículo)
+
+Art. 1.8: Estará prohibido cambiar el aspecto físico del vehículo durante una persecución y tras 5 minutos de haber finalizado la misma. (Aspecto físico incluyen modificaciones del tipo, matrículas, colores, llantas, etc.)
+
+Esta norma también se aplica al aspecto físico de los PJ. (No podrán cambiarse de indumentaria, añadirse o retirarse máscaras, chalecos, etc. durante una persecución y tras 5 minutos de haber finalizado la misma.)
+
+Nota: Las leyes de circulación se basarán en la ley de circulación Española, a excepción de: Las líneas amarillas dobles continuas que se aceptará girar hacia la derecha o izquierda para entrar a otra vía, pero en ningún caso adelantar a otro vehículo y en el parking de cada empresa con dueño, no se podrá sancionar a los infractores por mal estacionamiento. (siempre y cuando sea el parking de la empresa o el recinto), ya que para multar dicho vehículo se debe de tener autorización de algún miembro de la empresa.
+
+Nota: Por rol de entorno,  las matrículas de los vehiculos de emergencia y DT están formadas por combinaciones de tres letras y tres números (ABC-123) como una matrícula normal y corriente. Por lo tanto, no se podrá obtener numeros de placa del propietario del vehículo mediante su matrícula.
+
+
+Capítulo 6: Facciones Legales
+Art. 1 - Aspectos generales:
+
+Art. 1.1: Las facciones están obligadas a dar asistencia/acudir a los llamados de los ciudadanos con el fin de mantener a la ciudad en un balance, esto quiere decir que en x motivos podrían salir de servicio, pero en los llamados graves o al dar muchos llamados se les necesitará en servicio y en acción durante el tomo de rol.
+
+Art. 1.2: Los líderes de estas pueden supervisar, bajar como subir de rango, expulsar cómo ingresar y dar órdenes a sus miembros.
+
+Art. 1.3: Las facciones como el 061 o bomberos no podrán realizar sus funciones durante un tiroteo. Ejemplo: Un 061 no podrá asistir a un policía abatido en un tiroteo, si dicho tiroteo sigue en curso.  
+
+ASPECTOS A TENER EN CUENTA:
+
+
+Si un miembro de facción se encuentra en servicio, no se le podrá robar, secuestrar, ni matar. (Excepto a la policía, ya sea por algunos motivos).
+Al estar fuera de servicio se les contará como un civil más, el cual se le puede robar, secuestrar o matar.
+Los miembros de las facciones de policía no pueden ser ilegales, se les dará una sanción o una expulsión a cuyas personas tengan en posesión armas o sean ilegales. Sancionado con NIP.
+La policía podrá usar armas largas, en función de la alerta activada.
+Capítulo 7: Zonas Seguras
+
+En las siguientes localizaciones, no se podrán  iniciar ni realizar roles agresivos, de lo contrario, los usuarios implicados serán sancionados.
+
+
+Spawn (Tanto de Springfield como de ciudad).
+Hospital y sus garajes (Delanteros y traseros)
+Bomberos (Garaje incluido).
+Comisarías. (CNP, GC y PL: Garajes incluidos).
+Prisión (Garaje incluido).
+Mecánicos (DOT). Reparaciones no se considera zona segura.
+Nota: El tribunal de justicia no se considerará zona segura, pero para poder acceder al edificio con armas se deberá enviar primero un entorno informando a las autoridades que hay un sujeto armado en él edifico. (Si hay seguridad o agentes de policía en el edificio no será necesario enviar dicho entorno)
+
+Nota: No se podrán hacer tiroteos en el búnker de housing, ya que se considera falta de fair play aprovechar la transición, la cual debe finalizar para poder entrar o salir del búnker.
+
+Capítulo 8: Tribunal de Justicia
+
+El tribunal de Justicia se encarga de atender todas las denuncias redactadas por los usuarios en el canal de “Denuncias en Rol”. Además, también procesa a usuarios que hayan cometido infracciones graves o acumuladas.
+
+
+En caso de que un usuario supere los 100K de multa deberán solicitar a un gamemaster o supervisor que se le aplique el rol de espera de juicio, una vez tenga este rol significa que el usuario no podrá rolear y se le deberá hacer un juicio rápido en las próximas 24 horas, de lo contrario perderá el rol de espera de juicio y se le pondrá en busca y captura lo cual le permitirá rolear de nuevo hasta que lo consigan encontrar nuevamente y vuelva a asignarse dicho rol de espera de juicio.
+
+
+En caso de que un usuario haya sido citado para un juicio, este no podrá hacerse CK hasta que el juicio haya sido completado y las indemnizaciones/multas hayan sido pagadas.
+
+
+El tribunal de justicia tiene la potestad de embargar propiedades, préstamos, empresas etc. a un usuario que haya sido condenado con tal de que este pueda saldar/pagar la sanción económica que le haya sido impuesta o para retirarle propiedades o empresas si la condena que se le ha estipulado al usuario así lo dictamina.
+
+
+No se podrá presentar ni redactar una denuncia si los hechos ocurrieron con más de 48 horas de antelación, salvo en los siguientes casos: Investigaciones criminales, investigaciones anticorrupción y las investigaciones internas realizadas por el propio cuerpo o empresa,  excluyendo aquellas que sean competencia de la Fiscalía. (En estos casos excepcionales, el tiempo para redactar y presentar una denuncia será indefinido)
+
+Capítulo 9: Policía Militar
+
+La Policía Militar en Andalucía:RP se trata de un reducido grupo militar encargado de velar por el correcto funcionamiento de las facciones legales, persiguiendo la corrupción y el abuso de poder de las mismas.
+
+
+La Policía Militar sólo puede ser desplegada a partir de alerta naranja o en ciertos eventos autorizados previamente por FL y FI, sin embargo, en ambos escenarios es poco común que aparezcan.
+En caso de que la PM sea desplegada, se debe tener en cuenta que los efectivos se centraran más en situaciones de combates que en el cumplimiento de la ley.
+
+
+Nota: Todo aquel usuario que sea abatido y posteriormente arrestado por la PM podrá ser víctima de un CK si la PM considera que el sujeto es un enemigo público. (Se le notificará al sujeto en caso de que se dé lugar dicho escenario una vez sea aprobado por los encargados de CK)
+
+
+Nota: El armamento de la PM puede variar dependiendo de las situaciones en las que se desplieguen. (No hay restricciones de armamento en la PM)
+
+
+Nota: La PM en alertas bajas (verde y amarilla) no podrán hacer CK a ningún usuario (a menos que sea hacia un policia por corrupcion o hacia a un criminal que vaya directamente a por el PM) y se centrarán en su mayoría en velar por el correcto funcionamiento de las facciones legales, en especial de la policía.
+
+
+Capítulo 10: Reportes
+
+Art. 1 - Aspectos generales:
+
+Art. 1.1: Queda totalmente prohibido el reportar a un usuario sin tener ninguna prueba gráfica, eso quiere decir que un testigo no contará como prueba y el reporte no será válido.
+
+
+Art. 1.2: Queda prohibido reportar sucesos, los cuales hayan ocurrido pasadas 48 horas para los reportes generales y 72 horas para los reportes anónimos de facciones legales.
+
+
+Art. 1.3: Queda prohibido rolear en el servidor IG mientras se esté en un reporte. Recomendamos estar en zonas seguras durante los reportes para evitar que otros usuarios inicien un rol con usted.
+
+
+Art. 1.4: No se podrán utilizar pruebas en un reporte o contrareporte si estas no pertenecen al usuario que reporta, a menos que cuente con la autorización expresa de la persona a quien pertenecen dichas pruebas.
+
+
+Capítulo 11: Contenido creado para el servidor
+
+Todo usuario que proporcione material para Andalucía:RP, incluyendo logos, normativas, fan arts, documentos, entre otros, no podrá reclamar ni eliminar el contenido en un futuro en caso de que se siga usando.
+
+
+Las alertas son comunicados que se anuncian para informar a los ciudadanos sobre situaciones importantes que puedan afectar a la seguridad, la salud pública, o el bienestar en general. Estas alertas se utilizan para notificar a Andalucía sobre posibles peligros o emergencias. Dependiendo del contexto, las alertas pueden ser subidas o bajadas solo por los altos cargos de las fuerzas del orden (Los superiores con el rango ‘’Permiso de Alertas’’)
+
+
+Las alertas suelen clasificarse en diferentes niveles según la gravedad de la situación. Estos son los únicos niveles que existen: Verde, amarilla, naranja y roja. Cada una indicando una gravedad. Por EJ: Una alerta verde podría indicar una situación controlada y calmada, pero, en cambio, una alerta roja podría indicar una situación grave que requiere una respuesta inmediata y fuerzas especiales desplegadas.
+
+
+Alerta verde:
+
+
+La activación de una alerta verde generalmente se realiza en situaciones en las que no hay amenazas inmediatas o graves a la seguridad pública. En donde hay pocos altercados armados, secuestros Y/O persecuciones.
+
+-Importante: (Esta alerta siempre deberá ponerse cuando el servidor anuncie su apertura)
+
+
+Alerta amarilla:
+
+
+La activación de una alerta amarilla generalmente se realiza en situaciones en las que hay una amenaza considerable para la seguridad pública, pero la situación aún está bajo control y no ha alcanzado un nivel crítico. En donde nos podemos encontrar con varios altercados armados de gravedad considerable, secuestros Y/O persecuciones. En esta alerta se puede activar (1) unidad especial entre los 3 cuerpos. (Una única unidad y vehículo activo al mismo tiempo) durante un máximo de 30 minutos. En caso de hacer un control, podrá mantener la unidad especial en dicho control el tiempo que se considere necesario, pero no podrán acudir a QRR ni a tiroteos, solamente podrán actuar si el criminal pasa por dicho control.
+
+
+Alerta naranja:
+
+
+La alerta naranja indica una situación crítica que solicita una respuesta rápida y efectiva por parte de los cuerpos de seguridad. Los ciudadanos también pueden recibir instrucciones específicas, como evacuaciones, refugio en el hospital u otras medidas de seguridad (Siempre cumpliendo la normativa general y del cuerpo al que pertenecen).
+
+Esta alerta se deberá de activar cuando haya varios altercados armados, agentes abatidos, sujetos con armas de alto calibre, una gran cantidad de persecuciones y secuestros activos (Pueden haber excepciones). La Policía Militar podrá ser desplegada en esta alerta.
+
+
+Se podrán usar unidades rayo de 4 plazas para patrullar (Máximo 1 por cuerpo)
+
+
+Alerta roja:
+
+
+La alerta roja es activada durante emergencias extremas con riesgo muy alto y grave para la ciudadanía y el orden público. Involucra amenazas inmediatas, catástrofes naturales graves, conflictos armados, tiroteos masivos con armas de alto calibre. Requiere medidas inmediatas y precisas, control en el hospital, patrullaje con unidades rayos y unidades especiales desplegadas (Blindados permitidos).
+
+
+Esta alerta solo se puede activar si: H-50, COS y Mando policía local están de acuerdo, deben de producirse QRR masivos, persecuciones a sospechosos potencialmente hostiles (Delitos graves Y/O Sujeto/s con armas ilegales con intenciones de usarlas contra las FCSE), secuestros repentinos y varias organizaciones criminales amenazando la seguridad pública. (Puede haber excepciones). La Policía Militar suele desplegarse en esta alerta.
+
+
+Las FCSE no estarán obligados a negociar en secuestros/atracos durante la alerta roja.
+
+
+- Importante: La policía NUNCA puede disparar a civiles sin estos estar visiblemente armados (Independientemente de la alerta que esté activa).
+
+
+- Importante: Las alertas pueden ser cambiadas en un intervalo de 15 minutos para poder subir o bajar la alerta.
+
+
+- Importante: Está totalmente prohibido saltarse alertas, siempre que se suba o baje de alerta deberá ser de una en una (con tiempo de 15 minutos cada una) excepto en atentados o contratos de mafia que deberá ponerse en alerta roja inmediatamente, cosa que no suele ser muy frecuente. (Antes siempre consultar con un supervisor o mayor rango OBLIGATORIAMENTE).
+
+
+- Importante: En caso de que ningún alto cargo de los cuerpos de seguridad se encuentren, se puede comentárselo a un Gamemaster (+) para que él pueda subirla o bajar la alerta.
+
+
+- Importante: Los Gamemaster (+) pueden subir la alerta SIEMPRE NOTIFICÁNDOLO a los altos cargos en ese momento activos de los 3 cuerpos policiales (GC,CNP Y PL). Pero tendrán totalmente PROHIBIDO subir alerta en caso de que un superior de cualquier cuerpo de seguridad con ‘’permisos de alertas’’ se encuentre IG.
+
+
+- Importante: En la alerta amarilla al menos 2 cuerpos de seguridad tienen que estar totalmente de acuerdo con la subida de alerta (con un motivo sólido), estos pueden ser: H-50, COS o Mando policial, pero, en cambio, en la alerta roja los 3 cuerpos de seguridad tienen que estar totalmente de acuerdo. (Siempre antes de subirla se consulta con un rango administrativo medianamente alto Gamemaster (+) y en caso de que ninguno de estos este activo puede hablarse con un moderador.)
+
+
+- Importante: En caso de que el superior con el rango ‘’Permiso de Alertas’’ esté abusando de las alertas, (Subiéndolas o bajándolas sin sentido o sin ningún motivo sólido o incumplimiento esta normativa), cuenta de dos fases, la primera es que se le informará que no está haciendo un buen uso del comando (Dando un aviso verbal). Pero en caso de que este después del aviso dado siga abusando del comando, se le procederá a retirar el rol de ‘’permisos de alertas’’ y otorgarlo a otro superior que pueda llevar a cabo un mejor uso del comando.
+
+
+Para más información sobre: Armamento, unidades etc. En:
+
+Tipo de alertas y en normativa interna de los cuerpos de seguridad.
+
+
+El armamento de los agentes de cada cuerpo puede variar dependiendo de su normativa interna, pero siempre deberán de respetar el tipo de arma que se menciona en la alerta. (Ej.: Si en la alerta se menciona que puede usarse la “M4A1” las FCSE podrán llevar rifles, si se menciona que pueden usar la “MP5” podrán llevar subfusiles, si se menciona que pueden llevar la Glock-17 podrán llevar pistolas.)
+
+Si un cuerpo no tiene normativa interna específica sobre las armas que se pueden portar en cada alerta, deberán llevar las armas que se mencionan en la alerta correspondiente.
+
+
+Las empresas son organizaciones económicas que se crean con el objetivo de llevar a cabo actividades comerciales, todos los dueños de las empresas deben tener un PJ legal, en caso contrario podrías ser sancionado por NIP. La empresa deberá llevar a cabo las acciones características de la marca, EJ: Si eres de la empresa “Repsol”, tendrás que rellenar gasolina, vender artículos de la tienda, etc. (Solo cosas que normalmente podrían encontrarse en una gasolinera) en caso opuesto en el que sé de lugar una situación en la que la empresa no cumpla con sus funciones EJ: Que Repsol venda ropa, se podrán tomar consecuencias IC.
+
+Una vez la empresa sea creada o comprada, el servidor de Discord de dicha organización se le deberá otorgar la propiedad a un Encargado de facciones Legales o al dueño del servidor. (Para evitar futuros problemas). En caso de no realizarlo, la empresa podrá sufrir un cambio de dueño.
+
+Para tener empleados, el gerente de la empresa podrá elegir libremente la manera en la que seleccionar a los candidatos al puesto, pero en caso de que el Encargado de facciones legales vea que los trabajadores están llevando a cabo una labor pésima, se podrán tomar medidas contra la empresa. También deberás mantener organizado los rangos (En caso de contar con ellos), recuerda mantener una gestión realista y óptima de la empresa para evitar denuncias (IC) y futuros problemas.
+
+Los sueldos los determina el propietario de la empresa, él puede dar cobros: diarios, semanales, mensuales, etc. Pero si se da el caso donde el propietario o los propietarios no paguen a los empleados, el propietario/s pueden sufrir consecuencias (IC), (denuncias, clausura de local, etc.)
+
+
+Importante: El tribunal también puede llevar a cabo una expulsión al dueño (Siempre de haber realizado un juicio, tener un motivo sólido y siempre consultándolo con el Encargado de facciones legales. Etc.)
+
+
+Importante: Está totalmente prohibido recomprar una empresa que ha sido embargada por el mismo propietario anterior.
+
+
+Importante: Las empresas podrán tener un máximo de dos gerentes (Jefe y Subjefe) que podrán cobrar el sueldo del rol “Gerente de empresa”
+
+
+Importante: Todas las empresas deberán tener un local físico en el servidor IG para poder ejercer sus respectivas actividades. (Un local no podrá ser usado por múltiples empresas al mismo tiempo a menos que esto sea aprobado por el encargado de Facciones Legales)
+
+
+Importante: Una empresa inactiva no podrá ser reclamada por otro usuario, las empresas que se encuentren inactivas durante más de un mes serán subastadas.
+
+
+Importante: Para poder hacer un cambio de gerentes (dueños) de una empresa se deberá pagar a Fondos:RP un importe de 25K.
+
+
+Importante: Para poder hacer un cambio de color o nombre a una empresa se deberá pagar a Fondos:RP un importe de 50K para rolear las reformas en la empresa. En caso de que se quiera comprar y cambiar una empresa deberán ser los 85K por su compra + los 50K por sus reformas, dando un total de 135K.
+
+
+Importante: En caso de que la empresa no esté desempeñando adecuadamente sus funciones, desde el equipo administrativo se podría llevar a cabo un cambio de propietario o una subasta (no es necesario que esta sea otorgada al sub jefe Y/O gerente).
+
+
+Aspectos a tener en cuenta:
+
+
+Los trabajadores SI PODRÁN SER CRIMINALES, el único que no puede ser criminal es el jefe o subjefe de la empresa.
+En caso necesario y siempre con orden judicial, los bomberos podrán clausurar el local y este no podrá ser abierto en caso de que el local no supere exámenes de seguridad/sanidad mensuales.
+Una vez el local se encuentre abierto, los empleados podrán llamar a ‘’!mod’’ para informar a los ciudadanos con un :h de que el local se encuentra abierto.
+Un empleado NO PUEDE TRABAJAR sin el rol, aunque haya sido solicitado en pedir roles y apodos, él se deberá mantener a la espera hasta que se lo den, en caso opuesto si el empleado trabaja sin el rol la policía podrá ser alertada de este suceso y tomar medidas IC (Multa, denuncia, solicitud de clausura etc.)
+Cada ciudadano tiene la posibilidad de tener, como máximo, la propiedad de una empresa. No obstante, le está permitido desempeñar funciones en otras empresas en calidad de administrador u ocupar roles similares (Nunca puede ser jefe o subjefe de otra empresa externa que no es la suya).
