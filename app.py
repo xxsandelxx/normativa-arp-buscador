@@ -18,6 +18,10 @@ model = genai.GenerativeModel(
     generation_config=generation_config
 )
 
+@app.route("/", methods=["GET"])
+def home():
+    return "¡El buscador de normativa está activo y funcionando correctamente! 🚀 Usa la ruta /preguntar para hacer consultas."
+
 @app.route("/preguntar", methods=["POST"])
 def preguntar():
     data = request.json
