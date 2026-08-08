@@ -1,14 +1,15 @@
-os
+import os
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from google import genai
+import google.generativeai as genai
 
 app = Flask(__name__)
 CORS(app)
 
-# Configurar el cliente oficial con la API key
+# Configurar la API key de Google Gemini
 api_key = os.environ.get("GEMINI_API_KEY")
-client = genai.Client(api_key=api_key) if api_key else genai.Client()
+if api_key:
+    genai.configure(api_key=api_key)
 
 # Intentar leer la normativa de roleplay de forma segura
 try:
@@ -16,6 +17,9 @@ try:
         NORMATIVA_ROLEPLAY = f.read()
 except Exception as e:
     NORMATIVA_ROLEPLAY = "Normativa no cargada correctamente."
+
+# Inicializar el modelo con gemini-1.5-flash
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 @app.route("/", methods=["GET"])
 def home():
@@ -38,10 +42,7 @@ NORMATIVA:
 PREGUNTA DEL USUARIO:
 {pregunta_usuario}"""
 
-        response = client.models.generate_content(
-            model='gemini-3.5-flash',
-            contents=prompt_completo
-        )
+        response = model.generate_content(prompt_completo)
         return jsonify({"respuesta": response.text})
     except Exception as e:
         return jsonify({"respuesta": f"Error interno: {str(e)}"}), 500
