@@ -33,7 +33,7 @@ def preguntar():
             return jsonify({"respuesta": "Error: GEMINI_API_KEY no está configurada en el servidor."}), 500
 
         # Usar la API REST oficial de Google con gemini-1.5-flash
-        url = f"https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key={API_KEY}"
+        url = f"https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent?key={API_KEY}"
         
         prompt_completo = f"""Eres un asistente experto en la siguiente normativa de roleplay. Responde a la pregunta del usuario de forma clara, directa y cíñete estrictamente a las reglas provistas:
 
