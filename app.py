@@ -18,6 +18,14 @@ try:
 except Exception as e:
     NORMATIVA_ROLEPLAY = "Normativa no cargada correctamente."
 
+# Configurar el modelo directamente con gemini-1.5-flash
+generation_config = {"temperature": 0.3}
+model = genai.GenerativeModel(
+    model_name="gemini-1.5-flash",
+    system_instruction=f"Eres un asistente experto en la siguiente normativa de roleplay. Responde de forma clara, directa y cíñete estrictamente a las reglas provistas:\n\n{NORMATIVA_ROLEPLAY}",
+    generation_config=generation_config
+)
+
 @app.route("/", methods=["GET"])
 def home():
     return "¡El buscador de normativa está activo! 🚀"
@@ -31,24 +39,6 @@ def preguntar():
         if not pregunta_usuario:
             return jsonify({"respuesta": "Por favor, escribe una pregunta válida."}), 400
             
-        # Buscar dinámicamente un modelo compatible con generación de contenido
-        modelo_disponible = None
-        for m in genai.list_models():
-            if 'generateContent' in m.supported_generation_methods:
-                modelo_disponible = m.name
-                break
-                
-        if not modelo_disponible:
-            return jsonify({"respuesta": "Error: No se encontró ningún modelo de IA disponible en tu cuenta."}), 500
-
-        # Inicializar y generar con el modelo detectado automáticamente
-        generation_config = {"temperature": 0.3}
-        model = genai.GenerativeModel(
-            model_name=modelo_disponible,
-            system_instruction=f"Eres un asistente experto en la siguiente normativa de roleplay. Responde de forma clara, directa y cíñete estrictamente a las reglas provistas:\n\n{NORMATIVA_ROLEPLAY}",
-            generation_config=generation_config
-        )
-        
         response = model.generate_content(pregunta_usuario)
         return jsonify({"respuesta": response.text})
     except Exception as e:
