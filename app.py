@@ -18,7 +18,7 @@ except Exception as e:
 
 generation_config = {"temperature": 0.3}
 model = genai.GenerativeModel(
-    model_name="gemini-pro",
+    model_name="models/gemini-1.5-flash",
     system_instruction=f"Eres un asistente experto en la siguiente normativa de roleplay. Responde de forma clara, directa y cíñete estrictamente a las reglas provistas:\n\n{NORMATIVA_ROLEPLAY}",
     generation_config=generation_config
 )
