@@ -18,13 +18,8 @@ try:
 except Exception as e:
     NORMATIVA_ROLEPLAY = "Normativa no cargada correctamente."
 
-# Configurar el modelo directamente con gemini-1.5-flash
-generation_config = {"temperature": 0.3}
-model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
-    system_instruction=f"Eres un asistente experto en la siguiente normativa de roleplay. Responde de forma clara, directa y cíñete estrictamente a las reglas provistas:\n\n{NORMATIVA_ROLEPLAY}",
-    generation_config=generation_config
-)
+# Inicializar el modelo con el nombre limpio
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 @app.route("/", methods=["GET"])
 def home():
@@ -39,7 +34,16 @@ def preguntar():
         if not pregunta_usuario:
             return jsonify({"respuesta": "Por favor, escribe una pregunta válida."}), 400
             
-        response = model.generate_content(pregunta_usuario)
+        # Crear el prompt combinando el contexto de la normativa y la pregunta
+        prompt_completo = f"""Eres un asistente experto en la siguiente normativa de roleplay. Responde a la pregunta del usuario de forma clara, directa y cíñete estrictamente a las reglas provistas:
+
+NORMATIVA:
+{NORMATIVA_ROLEPLAY}
+
+PREGUNTA DEL USUARIO:
+{pregunta_usuario}"""
+
+        response = model.generate_content(prompt_completo)
         return jsonify({"respuesta": response.text})
     except Exception as e:
         return jsonify({"respuesta": f"Error interno: {str(e)}"}), 500
